@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Mega-pro-ch340g-ATmega2560_1" modelIndex="5771" path="D:/OneDrive/Documenten/Fritzing/parts/user/Mega-pro-ch340g-ATmega2560_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
