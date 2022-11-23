@@ -1,0 +1,101 @@
+<!DOCTYPE HTML><html>
+<head>
+  <title>WORD CLOCK DASHBOARD</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+  <link rel="icon"  type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<body>
+  <div class="topnav">
+    <h1>WORD CLOCK DASHBOARD</h1>
+  </div>
+  <div class="content">
+    <div class="card-grid">
+        <div class="card">
+            <p class="card-title"><i class="fas"></i> Status </p>
+            <p class ="state">Tijd: <span id="tijd"></span></p>
+            <p class ="state">Zon op: <span id="zonop"></span></p>
+            <p class ="state">Zon onder: <span id="zononder"></span></p>
+            <p class ="state">Temperatuur: <span id="temperatuur"></span></p>
+            <p class ="state">Luchtdruk: <span id="druk"></span></p>
+            <p class ="state">Maanfase: <span id="maanfase"></span></p>
+        </div>
+        <div class="card">             
+            <p class="card-title"></i>Klok mode</p>
+            <label class="switch">
+                <select id="mode" name="mode" onchange="handleDropdown(this)" >
+                  <option value="1">Wordclock</option>
+                  <option value="4">Digitaal</option>
+                  <option value="3">The Matrix</option>
+                  <option value="2">Temperatuur</option>
+                  <option value="7">Kitt 2000</option>
+                  <option value="9">Barometer</option>
+                  <option value="8">Sync de klok</option>
+                  <option value="10">Sync de klok</option>
+                  <option value="11">Vuurwerk</option>
+                  <option value="0">Uit</option>
+                </select>
+            </label>
+            <p class ="state">Het is: <input type="checkbox" onchange="handleHetIs(this)" id="hetIs"></p>
+            <p class ="state">Des ..s: <input type="checkbox" onchange="handleDesOchtends(this)" id="desOchtends"></p>
+            <p class ="state">Toon maan: <input type="checkbox" onchange="handleMaan(this)" id="maan"></p>
+        </div>
+        <div class="card">
+            <p class="card-title"><i class="fas"></i> Kleur klok</p>
+            <p class ="state">Rood: <input type="text" onchange="handleRood(this)" id="kleurRood" size="3"></p>
+            <p class ="state">Groen: <input type="text" onchange="handleGroen(this)" id="kleurGroen" size="3"></p>
+            <p class ="state">Blauw: <input type="text" onchange="handleBlauw(this)" id="kleurBlauw" size="3"></p>
+            <p class ="state">Uur uit: <input type="text" onchange="handleUurUit(this)" id="uuruit" size="3"></p>
+            <p class ="state">Uur aan: <input type="text" onchange="handleUurAan(this)" id="uuraan" size="3"></p>
+            <p class ="state">Nachtstap: <input type="text" onchange="handleNachtsterkte(this)" id="nachtsterkte" size="3"></p>
+        </div>
+        <div class="card">
+            <p class="card-title"><i class="fas"></i> Seconden</p>
+            <p class ="state">Rood: <input type="text" onchange="handleSRood(this)" id="kleurSRood" size="3"></p>
+            <p class ="state">Groen: <input type="text" onchange="handleSGroen(this)" id="kleurSGroen" size="3"></p>
+            <p class ="state">Blauw: <input type="text" onchange="handleSBlauw(this)" id="kleurSBlauw" size="3"></p>
+            <p class ="state">Seconden aan: <input type="radio" name="wordclock" onchange="handleWordclock(this)" value="secaan" id="secaan"></p>
+            <p class ="state">Seconden uit: <input type="radio" name="wordclock" onchange="handleWordclock(this)" value="secuit" id="secuit"></p>
+            <p class ="state">Seconden kleur: <input type="radio" name="wordclock" onchange="handleWordclock(this)" value="seckleur" id="seckleur"></p>
+        </div>
+        <div class="card">
+            <p class="card-title"><i class="fas"></i> Dimmen </p>
+            <p class ="state">Min: <input type="text" onchange="handleMinBrightness(this)" id="minBrightness" size="3"></p>
+            <p class ="state">Max: <input type="text" onchange="handleMaxBrightness(this)" id="maxBrightness" size="3"></p>
+            <p class ="state">Stap: <input type="text" onchange="handleStepBrightness(this)" id="stepBrightness" size="3"></p>
+            <p class ="state">Start: <input type="text" onchange="handleStartBrightness(this)" id="startBrightness" size="3"></p>
+            <p class ="state">Lichtstap: <span id="stap"></span></p>
+            <p class ="state">Lichtsterkte: <span id="sterkte"></span></p>
+        </div>
+        <div class="card">
+            <p class="card-title"><i class="fas"></i> Effecten</p>
+            <p class ="state">Geen: <input type="radio" onchange="handleEffect(this)" name="effect" value="geeneffect" id="geeneffect"></p>
+            <p class ="state">Vlag: <input type="radio" onchange="handleEffect(this)" name="effect" value="vlag" id="vlag"></p>
+            <p class ="state">Regenboog: <input type="radio" onchange="handleEffect(this)" name="effect" value="regenboog" id="regenboog"></p>
+            <p class ="state">Gradient: <input type="radio" onchange="handleEffect(this)" name="effect" value="gradient" id="gradient"></p>
+        </div>
+        <div class="card">
+            <p class="card-title"><i class="fas"></i> Overige instellingen</p>
+            <p class ="state">IP: <span id="ipadres"></span></p>
+            <p class ="state">Aut. zomertijd: <input type="checkbox" onchange="handleZomer(this)" id="zomer"></p>
+            <p class ="state">NTP server: </br><input type="text" onchange="handleTimeserver(this)" id="timeserver" size="20"></p>
+            <p class ="state">Tijdzone:</br>
+            <label class="switch">
+                <select id="timeoffset" name="timeoffset" onchange="handleDropdownOffset(this)" >
+                  <option value="0">Londen</option>
+                  <option value="1">Amsterdam</option>
+                  <option value="2">Ca&iuml;ro</option>
+                  <option value="3">Bagdad</option>
+                  <option value="4">Moskou</option>
+                </select>
+            </label></p>
+            <p class ="state">Lengtegr: <input type="text" onchange="handleLengte(this)" id="lengte" size="7"></p>
+            <p class ="state">Breedtegr: <input type="text" onchange="handleBreedte(this)" id="breedte" size="7"></p>
+        </div>
+    </div>
+</div>
+<script src="/script.js"></script>
+</body>
+</html>
+
+

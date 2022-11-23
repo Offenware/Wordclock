@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1884" version="1.1" height="37.999996mm" gorn="0" width="57.416946mm" viewBox="0 0 2260.5104 1496.0633" >
+    <desc id="desc2" >
+        <referenceFile >Mega-pro-ch340g-ATmega2560_1_breadboard.svg</referenceFile>
+    </desc>
+    <defs id="defs1878" >
+        <linearGradient id="linearGradient1678" paint="solid" >
+            <stop id="stop1676" offset="0"  stop-color="#000000" stop-opacity="1"/>
+        </linearGradient>
+    </defs>
+    <metadata id="metadata1881" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="breadboard" gorn="0.3" >
+        <rect opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" width="2125.9849" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="none" stroke-dasharray="none" height="1496.0634" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" x="132.78665" stroke-width="7.99660444" shape-rendering="auto" y="0" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#003173" id="rect2434" stroke-opacity="1"  gorn="0.3.0" stroke-linecap="round"/>
+        <g  transform="matrix(0,0.99957449,-1.0004257,0,0,0)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="317.42029" y="-2149.1348" fill="#ffffff" id="text1668" font-stretch="normal"  gorn="0.3.1.0" font-style="normal" font-variant-ligatures="normal">D50</text>
+        </g>
+        <g  transform="matrix(0.70740821,-0.70680522,0.70740821,0.70680522,0,0)">
+            <rect id="rect1434" stroke-width="10.41224766" height="550.93341" gorn="0.3.2.0" width="550.9472"  fill="#333333" x="121.8317" y="1258.8651"/>
+        </g>
+        <g  transform="matrix(0,0.11729612,-1.2151778,0,325.09711,252.03321)">
+            <polygon points="339.292,34.8194 339.292,69.0694 0,69.0694 0,34.8194 " id="wefwf" stroke-width="2.647609" gorn="0.3.3.0"  fill="#e6e6e6"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1913" stroke-width="0" height="74.694801" width="40.000061" gorn="0.3.4.0"  fill="#917c6f" x="-1110.1364" y="1758.6692" stroke="none"/>
+        </g>
+        <g  transform="matrix(0,-0.23952133,0.21776912,0,1758.6693,1110.1363)">
+            <polygon id="polygon1915" points="10,333 10,10 0,0 0,343 " stroke-width="2.18834186" gorn="0.3.5.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="matrix(0,-0.23952133,0.21776912,0,1758.6693,1110.1363)">
+            <polygon id="polygon1917" points="157,333 157,10 167,0 167,343 " stroke-width="2.18834186" gorn="0.3.6.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1919" stroke-width="0" height="15.243838" width="39.760544" gorn="0.3.7.0" connectorname="+" stroke-linecap="round"  fill="#917c6f" x="-1110.1364" y="1758.5613" stroke="none"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1921" stroke-width="0" height="15.243838" width="39.760544" gorn="0.3.8.0" connectorname="-" stroke-linecap="round"  fill="#917c6f" x="-1110.1364" y="1818.2292" stroke="none"/>
+        </g>
+        <g  transform="scale(0.99957368,1.0004265)">
+            <text id="text736" stroke-width="10.41224575" gorn="0.3.9.0" font-size="48.69911957"  font-family="OCRA" fill="#ffffff" x="1808.0574" y="447.37854">RX</text>
+        </g>
+        <g  transform="scale(0.99957368,1.0004265)">
+            <text id="text746" stroke-width="10.41224575" gorn="0.3.10.0" font-size="48.69911957"  font-family="OCRA" fill="#ffffff" x="1808.0574" y="533.92883">TX</text>
+        </g>
+        <g  transform="scale(0.99957368,1.0004265)">
+            <text id="text3619" stroke-width="10.41224575" gorn="0.3.11.0" font-size="48.69911957"  font-family="OCRA" fill="#ffffff" x="1808.0574" y="265.55334">L</text>
+        </g>
+        <g  transform="scale(0.99957368,1.0004265)">
+            <text id="text4084" stroke-width="10.41224575" gorn="0.3.12.0" font-size="48.69911957"  font-family="OCRA" fill="#ffffff" x="1808.0574" y="356.10852">ON</text>
+        </g>
+        <line id="line2932" stroke-width="10.41224575" y1="498.1553" y2="498.1553" gorn="0.3.13" x1="1993.3501" x2="1917.9746"  fill="none"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect2934" stroke-width="10.41224575" height="39.89312" width="76.552231" gorn="0.3.14.0"  fill="#f2f2f2" x="-1993.3431" y="-538.02448"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect2938" stroke-width="10.41224575" height="10.001903" gorn="0.3.15.0" width="8.8958502"  fill="#ffffff" x="-1960.2552" y="-523.38824"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect2940" stroke-width="10.41224575" height="0.50998253" gorn="0.3.16.0" width="8.8958502"  fill="#b3b3b3" x="-1960.2606" y="-513.63092"/>
+        </g>
+        <path id="path2946" stroke-width="10.41224575" gorn="0.3.17" d="M 1937.1935,504.61907 C 1937.2445,504.61907 1937.2685,504.61907 1937.3076,504.61907 1940.0785,505.01247 1941.9327,505.68117 1943.5368,506.31057 1945.714,507.13667 1949.3702,514.44927 1952.1618,513.55247 1952.4414,513.55247 1952.7973,513.55247 1952.8181,513.98517 1952.9323,514.37847 1952.7158,514.69317 1952.4441,514.81117 1949.2359,515.79457 1945.392,508.39147 1943.1108,507.51817 1941.5899,506.88877 1939.7982,506.22007 1937.1524,505.90537 1936.8808,505.90537 1936.569,505.51207 1936.6418,505.19737 1936.6928,504.80397 1936.9332,504.60727 1937.1938,504.60727 Z"  fill="#d1c690"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,722.28807)">
+            <polygon id="polygon2950" points="-18.122,-30.335 -18.852,-30.335 -18.749,-29.369 -18.225,-29.369 " gorn="0.3.18.0"  fill="#d1c690"/>
+        </g>
+        <path id="path2952" stroke-width="10.41224575" gorn="0.3.19" d="M 1956.2456,516.77407 C 1956.4936,516.77407 1956.7873,517.16747 1956.8499,517.28547 1957.5062,520.31437 1968.1833,529.27527 1976.4854,529.27527 1976.8279,529.27527 1977.0897,529.66867 1977.0897,529.94397 1977.0687,530.33737 1976.8613,530.61267 1976.4854,530.61267 H 1976.4644 C 1968.6623,530.61267 1956.7352,522.59987 1955.704,517.65527 1955.621,517.26187 1955.8379,516.94717 1956.1312,516.82917 1956.1622,516.80557 1956.2062,516.80557 1956.2453,516.80557 Z"  fill="#d1c690"/>
+        <path id="path2956" stroke-width="10.41224575" gorn="0.3.20" d="M 1951.3498,516.60887 C 1951.3498,516.60887 1955.058,516.62857 1955.3498,513.38327 1954.6517,513.38327 1951.3498,513.38327 1951.3498,513.38327 Z"  fill="#d1c690"/>
+        <path id="path2958" stroke-width="10.41224575" gorn="0.3.21" d="M 1955.9019,519.92887 C 1955.9019,519.92887 1954.2562,516.74267 1955.3184,516.27057 1956.4227,515.75917 1957.2038,515.71987 1957.8078,516.66397 1958.4534,517.52937 1955.9015,520.00757 1955.9015,520.00757 Z"  fill="#d1c690"/>
+        <path id="path2960" stroke-width="10.41224575" gorn="0.3.22" d="M 1952.1518,512.97807 C 1949.329,513.84347 1945.7039,506.54267 1943.5268,505.71267 1942.0166,505.08327 1940.0997,504.37517 1937.2976,504.02117 V 504.65057 C 1940.0685,505.04397 1941.9227,505.75197 1943.5268,506.34207 1945.704,507.16807 1949.3601,514.48077 1952.1518,513.58387 Z"  fill="#9d956c"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,722.28807)">
+            <polygon id="polygon2962" points="-18.907,-30.335 -18.852,-30.335 -18.749,-29.369 -18.804,-29.369 " gorn="0.3.23.0"  fill="#9d956c"/>
+        </g>
+        <path id="path2964" stroke-width="10.41224575" gorn="0.3.24" d="M 1956.8498,516.67177 C 1957.5061,519.70077 1967.9644,529.28707 1976.4852,528.63017 V 529.25957 C 1967.3498,529.88887 1957.4748,520.30647 1956.8289,517.26977 Z"  fill="#9d956c"/>
+        <path id="path2966" stroke-width="10.41224575" gorn="0.3.25" d="M 1955.3498,512.78927 C 1954.6517,512.78927 1951.381,512.78927 1951.381,512.78927 V 513.37937 C 1951.381,513.37937 1954.6413,513.37937 1955.3498,513.37937 Z"  fill="#9d956c"/>
+        <path id="path2968" stroke-width="10.41224575" gorn="0.3.26" d="M 1957.8498,516.02667 C 1957.1935,515.20067 1956.4852,515.23997 1955.3809,515.63337 L 1955.3599,516.26267 C 1956.4642,515.75137 1957.2556,515.71197 1957.8497,516.65607 Z"  fill="#9d956c"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect2972" stroke-width="10.41224575" height="0.53079808" width="44.031338" gorn="0.3.27.0"  fill="#ffffff" x="-1977.9536" y="-538.03864" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path2974" stroke-width="10.41224575" gorn="0.3.28" d="M 1983.3602,538.02767 V 498.15607 H 1927.9851 L 1927.9421,538.02767 Z"  fill="#f2f2f2" enable-background="new    " opacity="0.5"/>
+        <path id="path2976" stroke-width="10.41224575" gorn="0.3.29" d="M 1982.829,531.24207 V 534.07437 C 1982.6085,535.64777 1982.955,536.90657 1981.777,536.90657 1975.4437,536.90657 1932.7873,536.90657 1931.2144,536.90657 1929.4644,536.90657 1929.3498,536.23787 1931.3404,536.23787 1932.7152,536.23787 1971.903,536.23787 1976.6217,536.23787 1981.3822,536.23787 1982.0488,535.13637 1982.0488,534.19237 L 1982.0278,531.36007 C 1982.0278,529.47197 1982.8298,529.47197 1982.8298,531.36007 Z"  fill="#ffffff" enable-background="new    " opacity="0.55"/>
+        <path id="path2978" stroke-width="10.41224575" gorn="0.3.30" d="M 1929.433,500.44547 C 1929.433,499.73737 1929.2755,499.02937 1930.4539,499.02937 1936.8185,499.02937 1979.0686,499.02937 1980.5998,499.02937 1982.3809,499.02937 1982.4644,499.69807 1980.5168,499.69807 1979.1003,499.69807 1947.8189,499.71777 1943.1314,499.71777 1936.9543,499.72957 1929.4334,500.46517 1929.4334,500.46517 Z"  enable-background="new    " opacity="0.02999998"/>
+        <path id="path2980" stroke-width="10.41224575" gorn="0.3.31" d="M 1993.3394,498.13637 H 1985.3081 V 503.55697 C 1985.3081,504.85507 1984.4747,505.75987 1983.3499,506.34987 V 538.06307 H 1993.8707 V 498.67927 498.16787"  fill="#d1c690"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect2982" stroke-width="10.41224575" height="0.54120594" width="10.489604" gorn="0.3.32.0"  fill="#ffffff" x="-1993.8534" y="-538.05768" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path2984" stroke-width="10.41224575" gorn="0.3.33" d="M 1916.7872,498.13637 V 498.64777 538.03157 H 1927.9643 V 501.97957 C 1926.8808,501.38957 1926.006,500.44547 1926.006,499.14737 V 498.12457 H 1917.3601"  fill="#d1c690"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect2986" stroke-width="10.41224575" height="0.54120594" width="11.145856" gorn="0.3.34.0"  fill="#ffffff" x="-1927.9847" y="-538.05328" enable-background="new    " opacity="0.5"/>
+        </g>
+        <line id="line3495" stroke-width="10.41224575" y1="408.23151" y2="408.23151" gorn="0.3.35" x1="1993.3501" x2="1917.9746"  fill="none"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3497" stroke-width="10.41224575" height="39.89312" width="76.552231" gorn="0.3.36.0"  fill="#f2f2f2" x="-1993.3431" y="-448.10016"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3501" stroke-width="10.41224575" height="10.001903" gorn="0.3.37.0" width="8.8958502"  fill="#ffffff" x="-1960.2557" y="-433.46442"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3503" stroke-width="10.41224575" height="0.50998253" gorn="0.3.38.0" width="8.8958502"  fill="#b3b3b3" x="-1960.2611" y="-423.70709"/>
+        </g>
+        <path id="path3509" stroke-width="10.41224575" gorn="0.3.39" d="M 1937.1935,414.69567 C 1937.2445,414.69567 1937.2685,414.69567 1937.3076,414.69567 1940.0785,415.08897 1941.9327,415.75777 1943.5368,416.38707 1945.714,417.21317 1949.3702,424.52587 1952.1618,423.62897 1952.4414,423.62897 1952.7973,423.62897 1952.8181,424.06167 1952.9323,424.45507 1952.7158,424.76977 1952.4441,424.88777 1949.2359,425.87117 1945.392,418.46797 1943.1108,417.59477 1941.5899,416.96537 1939.7982,416.29667 1937.1524,415.98197 1936.8808,415.98197 1936.569,415.58857 1936.6418,415.27387 1936.6928,414.88047 1936.9332,414.68387 1937.1938,414.68387 Z"  fill="#d1c690"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,632.36467)">
+            <polygon id="polygon3513" points="-18.122,-30.335 -18.852,-30.335 -18.749,-29.369 -18.225,-29.369 " gorn="0.3.40.0"  fill="#d1c690"/>
+        </g>
+        <path id="path3515" stroke-width="10.41224575" gorn="0.3.41" d="M 1956.2456,426.85067 C 1956.4936,426.85067 1956.7873,427.24397 1956.8499,427.36197 1957.5062,430.39097 1968.1833,439.35177 1976.4854,439.35177 1976.8279,439.35177 1977.0897,439.74517 1977.0897,440.02057 1977.0687,440.41387 1976.8613,440.68927 1976.4854,440.68927 H 1976.4644 C 1968.6623,440.68927 1956.7352,432.67637 1955.704,427.73177 1955.621,427.33837 1955.8379,427.02377 1956.1312,426.90567 1956.1622,426.88207 1956.2062,426.88207 1956.2453,426.88207 Z"  fill="#d1c690"/>
+        <path id="path3519" stroke-width="10.41224575" gorn="0.3.42" d="M 1951.3498,426.68547 C 1951.3498,426.68547 1955.058,426.70517 1955.3498,423.45987 1954.6517,423.45987 1951.3498,423.45987 1951.3498,423.45987 Z"  fill="#d1c690"/>
+        <path id="path3521" stroke-width="10.41224575" gorn="0.3.43" d="M 1955.9019,430.00547 C 1955.9019,430.00547 1954.2562,426.81917 1955.3184,426.34717 1956.4227,425.83577 1957.2038,425.79647 1957.8078,426.74047 1958.4534,427.60587 1955.9015,430.12347 1955.9015,430.12347 Z"  fill="#d1c690"/>
+        <path id="path3523" stroke-width="10.41224575" gorn="0.3.44" d="M 1952.1518,423.05467 C 1949.329,423.92007 1945.7039,416.61917 1943.5268,415.78917 1942.0166,415.15977 1940.0997,414.45177 1937.2976,414.09777 V 414.72707 C 1940.0685,415.12047 1941.9227,415.82857 1943.5268,416.41857 1945.704,417.24467 1949.3601,424.55737 1952.1518,423.66047 Z"  fill="#9d956c"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,632.36467)">
+            <polygon id="polygon3525" points="-18.907,-30.335 -18.852,-30.335 -18.749,-29.369 -18.804,-29.369 " gorn="0.3.45.0"  fill="#9d956c"/>
+        </g>
+        <path id="path3527" stroke-width="10.41224575" gorn="0.3.46" d="M 1956.8498,426.74837 C 1957.5061,429.77727 1967.9644,439.36357 1976.4852,438.70667 V 439.33607 C 1967.3498,439.96547 1957.4748,430.38307 1956.8289,427.34627 Z"  fill="#9d956c"/>
+        <path id="path3529" stroke-width="10.41224575" gorn="0.3.47" d="M 1955.3498,422.86587 C 1954.6517,422.86587 1951.381,422.86587 1951.381,422.86587 V 423.45587 C 1951.381,423.45587 1954.6413,423.45587 1955.3498,423.45587 Z"  fill="#9d956c"/>
+        <path id="path3531" stroke-width="10.41224575" gorn="0.3.48" d="M 1957.8498,426.10327 C 1957.1935,425.27717 1956.4852,425.31647 1955.3809,425.70987 L 1955.3599,426.33927 C 1956.4642,425.82787 1957.2556,425.78857 1957.8497,426.73267 Z"  fill="#9d956c"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3535" stroke-width="10.41224575" height="0.53079808" width="44.031338" gorn="0.3.49.0"  fill="#ffffff" x="-1977.9536" y="-448.11481" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path3537" stroke-width="10.41224575" gorn="0.3.50" d="M 1983.3602,448.10417 V 408.23267 H 1927.9851 L 1927.9421,448.10417 Z"  fill="#f2f2f2" enable-background="new    " opacity="0.5"/>
+        <path id="path3539" stroke-width="10.41224575" gorn="0.3.51" d="M 1982.829,441.31867 V 444.15087 C 1982.6085,445.72437 1982.955,446.98307 1981.777,446.98307 1975.4437,446.98307 1932.7873,446.98307 1931.2144,446.98307 1929.4644,446.98307 1929.3498,446.31437 1931.3404,446.31437 1932.7152,446.31437 1971.903,446.31437 1976.6217,446.31437 1981.3822,446.31437 1982.0488,445.21297 1982.0488,444.26887 L 1982.0278,441.43667 C 1982.0278,439.54847 1982.8298,439.54847 1982.8298,441.43667 Z"  fill="#ffffff" enable-background="new    " opacity="0.55"/>
+        <path id="path3541" stroke-width="10.41224575" gorn="0.3.52" d="M 1929.433,410.52207 C 1929.433,409.81397 1929.2755,409.06657 1930.4539,409.06657 1936.8185,409.06657 1979.0686,409.06657 1980.5998,409.06657 1982.3809,409.06657 1982.4644,409.73527 1980.5168,409.73527 1979.1003,409.73527 1947.8189,409.75497 1943.1314,409.75497 1936.9543,409.76677 1929.4334,410.50237 1929.4334,410.50237 Z"  enable-background="new    " opacity="0.02999998"/>
+        <path id="path3543" stroke-width="10.41224575" gorn="0.3.53" d="M 1993.3394,408.21297 H 1985.3081 V 413.63357 C 1985.3081,414.93167 1984.4747,415.83637 1983.3499,416.42647 V 448.13957 H 1993.8707 V 408.75577 408.24447"  fill="#d1c690"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3545" stroke-width="10.41224575" height="0.54120594" width="10.489604" gorn="0.3.54.0"  fill="#ffffff" x="-1993.8539" y="-448.13873" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path3547" stroke-width="10.41224575" gorn="0.3.55" d="M 1912.7872,408.20228 V 408.71368 448.09748 H 1923.9643 V 412.04548 C 1922.8808,411.45538 1922.006,410.51138 1922.006,409.21318 V 408.15118 H 1913.3601"  fill="#d1c690"/>
+        <line id="line3557" stroke-width="10.41224575" y1="318.30768" y2="318.30768" gorn="0.3.56" x1="1993.3501" x2="1917.9746"  fill="none"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3559" stroke-width="10.41224575" height="39.89312" width="76.552231" gorn="0.3.57.0"  fill="#f2f2f2" x="-1993.3436" y="-358.17636"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3563" stroke-width="10.41224575" height="10.001903" gorn="0.3.58.0" width="8.8958502"  fill="#ffffff" x="-1960.2562" y="-343.54062"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3565" stroke-width="10.41224575" height="0.50998253" gorn="0.3.59.0" width="8.8958502"  fill="#b3b3b3" x="-1960.2611" y="-333.78329"/>
+        </g>
+        <path id="path3571" stroke-width="10.41224575" gorn="0.3.60" d="M 1937.1935,324.77217 C 1937.2445,324.77217 1937.2685,324.77217 1937.3076,324.77217 1940.0785,325.16557 1941.9327,325.83427 1943.5368,326.46367 1945.714,327.28977 1949.3702,334.60237 1952.1618,333.70557 1952.4414,333.70557 1952.7973,333.70557 1952.8181,334.13827 1952.9323,334.53157 1952.7158,334.84627 1952.4441,334.96427 1949.2359,335.94767 1945.392,328.54457 1943.1108,327.67127 1941.5899,327.04187 1939.7982,326.37317 1937.1524,326.05847 1936.8808,326.05847 1936.569,325.66517 1936.6418,325.35047 1936.6928,324.95707 1936.9332,324.76037 1937.1938,324.76037 Z"  fill="#d1c690"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,542.44117)">
+            <polygon id="polygon3575" points="-18.122,-30.335 -18.852,-30.335 -18.749,-29.369 -18.225,-29.369 " gorn="0.3.61.0"  fill="#d1c690"/>
+        </g>
+        <path id="path3577" stroke-width="10.41224575" gorn="0.3.62" d="M 1956.2456,336.92717 C 1956.4936,336.92717 1956.7873,337.32057 1956.8499,337.43857 1957.5062,340.46747 1968.1833,349.42837 1976.4854,349.42837 1976.8279,349.42837 1977.0897,349.82177 1977.0897,350.09707 1977.0687,350.49047 1976.8613,350.76577 1976.4854,350.76577 H 1976.4644 C 1968.6623,350.76577 1956.7352,342.75297 1955.704,337.80837 1955.621,337.41497 1955.8379,337.10027 1956.1312,336.98227 1956.1622,336.95867 1956.2062,336.95867 1956.2453,336.95867 Z"  fill="#d1c690"/>
+        <path id="path3581" stroke-width="10.41224575" gorn="0.3.63" d="M 1951.3498,336.76197 C 1951.3498,336.76197 1955.058,336.78167 1955.3498,333.53637 1954.6517,333.53637 1951.3498,333.53637 1951.3498,333.53637 Z"  fill="#d1c690"/>
+        <path id="path3583" stroke-width="10.41224575" gorn="0.3.64" d="M 1955.9019,340.08197 C 1955.9019,340.08197 1954.2562,336.89577 1955.3184,336.42367 1956.4227,335.91227 1957.2038,335.87297 1957.8078,336.81707 1958.4534,337.68247 1955.9015,340.19997 1955.9015,340.19997 Z"  fill="#d1c690"/>
+        <path id="path3585" stroke-width="10.41224575" gorn="0.3.65" d="M 1952.1518,333.13117 C 1949.329,333.99657 1945.7039,326.69577 1943.5268,325.86577 1942.0166,325.23637 1940.0997,324.52827 1937.2976,324.17427 V 324.80367 C 1940.0685,325.19707 1941.9227,325.86577 1943.5268,326.49517 1945.704,327.32117 1949.3601,334.63387 1952.1518,333.73697 Z"  fill="#9d956c"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,542.44117)">
+            <polygon id="polygon3587" points="-18.907,-30.335 -18.852,-30.335 -18.749,-29.369 -18.804,-29.369 " gorn="0.3.66.0"  fill="#9d956c"/>
+        </g>
+        <path id="path3589" stroke-width="10.41224575" gorn="0.3.67" d="M 1956.8498,336.82487 C 1957.5061,339.85387 1967.9644,349.44017 1976.4852,348.78327 V 349.41267 C 1967.3498,350.04197 1957.4748,340.45967 1956.8289,337.42287 Z"  fill="#9d956c"/>
+        <path id="path3591" stroke-width="10.41224575" gorn="0.3.68" d="M 1955.3498,332.94237 C 1954.6517,332.94237 1951.381,332.94237 1951.381,332.94237 V 333.53247 C 1951.381,333.53247 1954.6413,333.53247 1955.3498,333.53247 Z"  fill="#9d956c"/>
+        <path id="path3593" stroke-width="10.41224575" gorn="0.3.69" d="M 1957.8498,336.17977 C 1957.1935,335.35377 1956.4852,335.39307 1955.3809,335.78647 L 1955.3599,336.41577 C 1956.4642,335.90447 1957.2556,335.86507 1957.8497,336.80917 Z"  fill="#9d956c"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3597" stroke-width="10.41224575" height="0.53079808" width="44.031338" gorn="0.3.70.0"  fill="#ffffff" x="-1977.954" y="-358.19101" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path3599" stroke-width="10.41224575" gorn="0.3.71" d="M 1983.3602,358.18077 V 318.30917 H 1927.9851 L 1927.9421,358.18077 Z"  fill="#f2f2f2" enable-background="new    " opacity="0.5"/>
+        <path id="path3601" stroke-width="10.41224575" gorn="0.3.72" d="M 1982.829,351.39517 V 354.22747 C 1982.6085,355.80087 1982.955,357.05967 1981.777,357.05967 1975.4437,357.05967 1932.7873,357.05967 1931.2144,357.05967 1929.4644,357.05967 1929.3498,356.39097 1931.3404,356.39097 1932.7152,356.39097 1971.903,356.39097 1976.6217,356.39097 1981.3822,356.39097 1982.0488,355.28947 1982.0488,354.34547 L 1982.0278,351.51317 C 1982.0278,349.62507 1982.8298,349.62507 1982.8298,351.51317 Z"  fill="#ffffff" enable-background="new    " opacity="0.55"/>
+        <path id="path3603" stroke-width="10.41224575" gorn="0.3.73" d="M 1929.433,320.59857 C 1929.433,319.89047 1929.2755,319.18247 1930.4539,319.18247 1936.8185,319.18247 1979.0686,319.18247 1980.5998,319.18247 1982.3809,319.18247 1982.4644,319.85117 1980.5168,319.85117 1979.1003,319.85117 1947.8189,319.87087 1943.1314,319.87087 1936.9543,319.88267 1929.4334,320.61827 1929.4334,320.61827 Z"  enable-background="new    " opacity="0.02999998"/>
+        <path id="path3605" stroke-width="10.41224575" gorn="0.3.74" d="M 1993.3394,318.28947 H 1985.3081 V 323.71007 C 1985.3081,325.00817 1984.4747,325.91297 1983.3499,326.50297 V 358.21617 H 1993.8707 V 318.83237 318.32097"  fill="#d1c690"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect3607" stroke-width="10.41224575" height="0.54120594" width="10.489604" gorn="0.3.75.0"  fill="#ffffff" x="-1993.8539" y="-358.21494" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path3609" stroke-width="10.41224575" gorn="0.3.76" d="M 1912.7872,318.27878 V 318.79018 358.17398 H 1923.9643 V 322.12198 C 1922.8808,321.53198 1922.006,320.58788 1922.006,319.28978 V 318.26698 H 1913.3601"  fill="#d1c690"/>
+        <line id="line4022" stroke-width="10.41224575" y1="228.38387" y2="228.38387" gorn="0.3.77" x1="1993.3501" x2="1917.9746"  fill="none"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect4024" stroke-width="10.41224575" height="39.89312" width="76.552231" gorn="0.3.78.0"  fill="#f2f2f2" x="-1993.3436" y="-268.25293"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect4028" stroke-width="10.41224575" height="10.001903" gorn="0.3.79.0" width="8.8958502"  fill="#ffffff" x="-1960.2562" y="-253.61717"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect4030" stroke-width="10.41224575" height="0.50998253" gorn="0.3.80.0" width="8.8958502"  fill="#b3b3b3" x="-1960.2617" y="-243.85985"/>
+        </g>
+        <path id="path4036" stroke-width="10.41224575" gorn="0.3.81" d="M 1937.1935,234.84877 C 1937.2445,234.84877 1937.2685,234.84877 1937.3076,234.84877 1940.0785,235.24207 1941.9327,235.95017 1943.5368,236.54017 1945.714,237.36627 1949.3702,244.67897 1952.1618,243.78207 1952.4414,243.78207 1952.7973,243.78207 1952.8181,244.21477 1952.9323,244.60817 1952.7158,244.92287 1952.4441,245.04087 1949.2359,246.02427 1945.392,238.62107 1943.1108,237.74787 1941.5899,237.11847 1939.7982,236.44977 1937.1524,236.13507 1936.8808,236.13507 1936.569,235.74167 1936.6418,235.42697 1936.6928,235.03367 1936.9332,234.83697 1937.1938,234.83697 Z"  fill="#d1c690"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,452.51777)">
+            <polygon id="polygon4040" points="-18.852,-30.335 -18.749,-29.369 -18.225,-29.369 -18.122,-30.335 " gorn="0.3.82.0"  fill="#d1c690"/>
+        </g>
+        <path id="path4042" stroke-width="10.41224575" gorn="0.3.83" d="M 1956.2456,247.00377 C 1956.4936,247.00377 1956.7873,247.39707 1956.8499,247.47577 1957.5062,250.50467 1968.1833,259.46557 1976.4854,259.46557 1976.8279,259.46557 1977.0897,259.85897 1977.0897,260.13427 1977.0687,260.52767 1976.8613,260.80307 1976.4854,260.80307 H 1976.4644 C 1968.6623,260.80307 1956.7352,252.79017 1955.704,247.84557 1955.621,247.45217 1955.8379,247.13747 1956.1312,247.01947 1956.1622,246.99587 1956.2062,246.99587 1956.2453,246.99587 Z"  fill="#d1c690"/>
+        <path id="path4046" stroke-width="10.41224575" gorn="0.3.84" d="M 1951.3498,246.83857 C 1951.3498,246.83857 1955.058,246.85827 1955.3498,243.61297 1954.6517,243.61297 1951.3498,243.61297 1951.3498,243.61297 Z"  fill="#d1c690"/>
+        <path id="path4048" stroke-width="10.41224575" gorn="0.3.85" d="M 1955.9019,250.15857 C 1955.9019,250.15857 1954.2562,246.97227 1955.3184,246.50027 1956.4227,245.98887 1957.2038,245.94957 1957.8078,246.89357 1958.4534,247.75897 1955.9015,250.23717 1955.9015,250.23717 Z"  fill="#d1c690"/>
+        <path id="path4050" stroke-width="10.41224575" gorn="0.3.86" d="M 1952.1518,243.20777 C 1949.329,244.07317 1945.7039,236.77227 1943.5268,235.94227 1942.0166,235.31287 1940.0997,234.60487 1937.2976,234.25087 V 234.88017 C 1940.0685,235.27357 1941.9227,235.94227 1943.5268,236.57167 1945.704,237.39777 1949.3601,244.71047 1952.1518,243.81357 Z"  fill="#9d956c"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,452.51777)">
+            <polygon id="polygon4052" points="-18.852,-30.335 -18.749,-29.369 -18.804,-29.369 -18.907,-30.335 " gorn="0.3.87.0"  fill="#9d956c"/>
+        </g>
+        <path id="path4054" stroke-width="10.41224575" gorn="0.3.88" d="M 1956.8498,246.90147 C 1957.5061,249.93037 1967.9644,259.51667 1976.4852,258.85977 V 259.48917 C 1967.3498,260.11857 1957.4748,250.53617 1956.8289,247.49937 Z"  fill="#9d956c"/>
+        <path id="path4056" stroke-width="10.41224575" gorn="0.3.89" d="M 1955.3498,243.01897 C 1954.6517,243.01897 1951.381,243.01897 1951.381,243.01897 V 243.60897 C 1951.381,243.60897 1954.6413,243.60897 1955.3498,243.60897 Z"  fill="#9d956c"/>
+        <path id="path4058" stroke-width="10.41224575" gorn="0.3.90" d="M 1957.8498,246.25637 C 1957.1935,245.43027 1956.4852,245.46957 1955.3809,245.86297 L 1955.3599,246.49237 C 1956.4642,245.98097 1957.2556,245.94167 1957.8497,246.88577 Z"  fill="#9d956c"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect4062" stroke-width="10.41224575" height="0.53079808" width="44.031338" gorn="0.3.91.0"  fill="#ffffff" x="-1977.954" y="-268.26758" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path4064" stroke-width="10.41224575" gorn="0.3.92" d="M 1983.3602,268.25727 V 228.38577 H 1927.9851 L 1927.9421,268.25727 Z"  fill="#f2f2f2" enable-background="new    " opacity="0.5"/>
+        <path id="path4066" stroke-width="10.41224575" gorn="0.3.93" d="M 1982.829,261.47177 V 264.30397 C 1982.6085,265.87747 1982.955,267.13617 1981.777,267.13617 1975.4437,267.13617 1932.7873,267.13617 1931.2144,267.13617 1929.4644,267.13617 1929.3498,266.46747 1931.3404,266.46747 1932.7152,266.46747 1971.903,266.46747 1976.6217,266.46747 1981.3822,266.46747 1982.0488,265.36607 1982.0488,264.42197 L 1982.0278,261.58977 C 1982.0278,259.70157 1982.8298,259.70157 1982.8298,261.58977 Z"  fill="#ffffff" enable-background="new    " opacity="0.55"/>
+        <path id="path4068" stroke-width="10.41224575" gorn="0.3.94" d="M 1929.433,230.67517 C 1929.433,229.96707 1929.2755,229.25897 1930.4539,229.25897 1936.8185,229.25897 1979.0686,229.25897 1980.5998,229.25897 1982.3809,229.25897 1982.4644,229.92777 1980.5168,229.92777 1979.1003,229.92777 1947.8189,229.94747 1943.1314,229.94747 1936.9543,229.95927 1929.4334,230.69487 1929.4334,230.69487 Z"  enable-background="new    " opacity="0.02999998"/>
+        <path id="path4070" stroke-width="10.41224575" gorn="0.3.95" d="M 1993.3394,228.36607 H 1985.3081 V 233.78667 C 1985.3081,235.08477 1984.4747,235.98947 1983.3499,236.57957 V 268.29267 H 1993.8707 V 228.90887 228.39757"  fill="#d1c690"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect4072" stroke-width="10.41224575" height="0.54120594" width="10.489604" gorn="0.3.96.0"  fill="#ffffff" x="-1993.8544" y="-268.2915" enable-background="new    " opacity="0.5"/>
+        </g>
+        <path id="path4074" stroke-width="10.41224575" gorn="0.3.97" d="M 1912.7872,228.35538 V 228.86678 268.25058 H 1923.9643 V 232.19858 C 1922.8808,231.60848 1922.006,230.66448 1922.006,229.36628 V 228.34358 H 1913.3601"  fill="#d1c690"/>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text id="text1580" stroke-width="10.41224575" gorn="0.3.98.0" font-size="48.69911957"  font-family="OCRA" fill="#ffffff" x="2080.3245" y="1061.3585">ICSP</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="173.18155" y="1316.2394" fill="#ffffff" id="text1250" font-stretch="normal"  gorn="0.3.99.0" font-style="normal" font-variant-ligatures="normal">VIN</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="273.4877" y="1316.2394" fill="#ffffff" id="text1572" font-stretch="normal"  gorn="0.3.100.0" font-style="normal" font-variant-ligatures="normal">GND</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="473.01208" y="1316.2394" fill="#ffffff" id="text1574" font-stretch="normal"  gorn="0.3.101.0" font-style="normal" font-variant-ligatures="normal">3V3</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="562.97577" y="1316.2394" fill="#ffffff" id="text1576" font-stretch="normal"  gorn="0.3.102.0" font-style="normal" font-variant-ligatures="normal">AREF</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="683.15155" y="211.15288" fill="#ffffff" id="text1594" font-stretch="normal"  gorn="0.3.103.0" font-style="normal" font-variant-ligatures="normal">A1</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="783.10907" y="211.15288" fill="#ffffff" id="text1596" font-stretch="normal"  gorn="0.3.104.0" font-style="normal" font-variant-ligatures="normal">A3</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="883.06659" y="211.15288" fill="#ffffff" id="text1598" font-stretch="normal"  gorn="0.3.105.0" font-style="normal" font-variant-ligatures="normal">A5</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="983.02411" y="211.15288" fill="#ffffff" id="text1600" font-stretch="normal"  gorn="0.3.106.0" font-style="normal" font-variant-ligatures="normal">A7</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1082.9816" y="211.15288" fill="#ffffff" id="text1602" font-stretch="normal"  gorn="0.3.107.0" font-style="normal" font-variant-ligatures="normal">A9</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1172.9435" y="211.15288" fill="#ffffff" id="text1604" font-stretch="normal"  gorn="0.3.108.0" font-style="normal" font-variant-ligatures="normal">A11</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1272.901" y="211.15288" fill="#ffffff" id="text1606" font-stretch="normal"  gorn="0.3.109.0" font-style="normal" font-variant-ligatures="normal">A13</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1372.8585" y="211.15288" fill="#ffffff" id="text1608" font-stretch="normal"  gorn="0.3.110.0" font-style="normal" font-variant-ligatures="normal">A15</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1471.0992" y="211.15288" fill="#ffffff" id="text1612" font-stretch="normal"  gorn="0.3.111.0" font-style="normal" font-variant-ligatures="normal">D33</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1570.0153" y="211.15288" fill="#ffffff" id="text1614" font-stretch="normal"  gorn="0.3.112.0" font-style="normal" font-variant-ligatures="normal">D35</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1668.9313" y="211.15288" fill="#ffffff" id="text1616" font-stretch="normal"  gorn="0.3.113.0" font-style="normal" font-variant-ligatures="normal">D37</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1769.9298" y="211.15288" fill="#ffffff" id="text1618" font-stretch="normal"  gorn="0.3.114.0" font-style="normal" font-variant-ligatures="normal">D39</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1871.1783" y="211.15288" fill="#ffffff" id="text1620" font-stretch="normal"  gorn="0.3.115.0" font-style="normal" font-variant-ligatures="normal">D41</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1770.0641" y="211.15288" fill="#ffffff" id="text1622" font-stretch="normal"  gorn="0.3.116.0" font-style="normal" font-variant-ligatures="normal">D43</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="653.99921" y="112.59037" fill="#ffffff" id="text1628" font-stretch="normal"  gorn="0.3.117.0" font-style="normal" font-variant-ligatures="normal">A0</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="753.95721" y="112.11234" fill="#ffffff" id="text1630" font-stretch="normal"  gorn="0.3.118.0" font-style="normal" font-variant-ligatures="normal">A2</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="853.91473" y="112.11234" fill="#ffffff" id="text1632" font-stretch="normal"  gorn="0.3.119.0" font-style="normal" font-variant-ligatures="normal">A4</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="953.87225" y="112.11234" fill="#ffffff" id="text1634" font-stretch="normal"  gorn="0.3.120.0" font-style="normal" font-variant-ligatures="normal">A6</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1053.8297" y="112.11234" fill="#ffffff" id="text1636" font-stretch="normal"  gorn="0.3.121.0" font-style="normal" font-variant-ligatures="normal">A8</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1143.7916" y="112.11234" fill="#ffffff" id="text1638" font-stretch="normal"  gorn="0.3.122.0" font-style="normal" font-variant-ligatures="normal">A10</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1243.7487" y="112.11234" fill="#ffffff" id="text1640" font-stretch="normal"  gorn="0.3.123.0" font-style="normal" font-variant-ligatures="normal">A12</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1343.7067" y="112.11234" fill="#ffffff" id="text1642" font-stretch="normal"  gorn="0.3.124.0" font-style="normal" font-variant-ligatures="normal">A14</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1448.192" y="112.11234" fill="#ffffff" id="text1644" font-stretch="normal"  gorn="0.3.125.0" font-style="normal" font-variant-ligatures="normal">D32</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1546.067" y="112.11234" fill="#ffffff" id="text1646" font-stretch="normal"  gorn="0.3.126.0" font-style="normal" font-variant-ligatures="normal">D34</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1650.1896" y="112.11234" fill="#ffffff" id="text1648" font-stretch="normal"  gorn="0.3.127.0" font-style="normal" font-variant-ligatures="normal">D36</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1753.2726" y="112.11234" fill="#ffffff" id="text1650" font-stretch="normal"  gorn="0.3.128.0" font-style="normal" font-variant-ligatures="normal">D38</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1853.4796" y="112.11234" fill="#ffffff" id="text1652" font-stretch="normal"  gorn="0.3.129.0" font-style="normal" font-variant-ligatures="normal">D40</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1953.4371" y="112.11234" fill="#ffffff" id="text1654" font-stretch="normal"  gorn="0.3.130.0" font-style="normal" font-variant-ligatures="normal">D42</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2053.3953" y="112.59037" fill="#ffffff" id="text1656" font-stretch="normal"  gorn="0.3.131.0" font-style="normal" font-variant-ligatures="normal">D44</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2153.3523" y="112.59037" fill="#ffffff" id="text1658" font-stretch="normal"  gorn="0.3.132.0" font-style="normal" font-variant-ligatures="normal">D46</text>
+        </g>
+        <g  transform="matrix(0,0.99957368,-1.0004265,0,0,0)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="216.46054" y="-2031.9205" fill="#ffffff" id="text1660" font-stretch="normal"  gorn="0.3.133.0" font-style="normal" font-variant-ligatures="normal">D49</text>
+        </g>
+        <g  transform="matrix(0,0.99957368,-1.0004265,0,0,0)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="317.40973" y="-2031.9205" fill="#ffffff" id="text1662" font-stretch="normal"  gorn="0.3.134.0" font-style="normal" font-variant-ligatures="normal">D51</text>
+        </g>
+        <g  transform="matrix(0,0.99957368,-1.0004265,0,0,0)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="416.32672" y="-2031.9205" fill="#ffffff" id="text1664" font-stretch="normal"  gorn="0.3.135.0" font-style="normal" font-variant-ligatures="normal">D53</text>
+        </g>
+        <g  transform="matrix(0,0.99957368,-1.0004265,0,0,0)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="416.33743" y="-2149.1331" fill="#ffffff" id="text1666" font-stretch="normal"  gorn="0.3.136.0" font-style="normal" font-variant-ligatures="normal">D52</text>
+        </g>
+        <g  transform="matrix(0,0.99957449,-1.0004257,0,0,0)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="216.47108" y="-2149.1348" fill="#ffffff" id="text1670" font-stretch="normal"  gorn="0.3.137.0" font-style="normal" font-variant-ligatures="normal">D48</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="686.22528" y="1316.1593" fill="#ffffff" id="text1704" font-stretch="normal"  gorn="0.3.138.0" font-style="normal" font-variant-ligatures="normal">RX</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="782.85077" y="1316.1593" fill="#ffffff" id="text1708" font-stretch="normal"  gorn="0.3.139.0" font-style="normal" font-variant-ligatures="normal">D2</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="883.05829" y="1316.1593" fill="#ffffff" id="text1710" font-stretch="normal"  gorn="0.3.140.0" font-style="normal" font-variant-ligatures="normal">D4</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="982.76581" y="1316.1593" fill="#ffffff" id="text1712" font-stretch="normal"  gorn="0.3.141.0" font-style="normal" font-variant-ligatures="normal">D6</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1082.7238" y="1316.1593" fill="#ffffff" id="text1714" font-stretch="normal"  gorn="0.3.142.0" font-style="normal" font-variant-ligatures="normal">D8</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1167.6876" y="1316.1593" fill="#ffffff" id="text1716" font-stretch="normal"  gorn="0.3.143.0" font-style="normal" font-variant-ligatures="normal">D10</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1267.6451" y="1316.1593" fill="#ffffff" id="text1718" font-stretch="normal"  gorn="0.3.144.0" font-style="normal" font-variant-ligatures="normal">D12</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1372.1827" y="1316.1593" fill="#ffffff" id="text1720" font-stretch="normal"  gorn="0.3.145.0" font-style="normal" font-variant-ligatures="normal">D14</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1474.2228" y="1316.1593" fill="#ffffff" id="text1722" font-stretch="normal"  gorn="0.3.146.0" font-style="normal" font-variant-ligatures="normal">D16</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1573.1388" y="1316.1593" fill="#ffffff" id="text1724" font-stretch="normal"  gorn="0.3.147.0" font-style="normal" font-variant-ligatures="normal">D18</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1671.0138" y="1316.1593" fill="#ffffff" id="text1726" font-stretch="normal"  gorn="0.3.148.0" font-style="normal" font-variant-ligatures="normal">D20</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1772.0123" y="1316.1593" fill="#ffffff" id="text1728" font-stretch="normal"  gorn="0.3.149.0" font-style="normal" font-variant-ligatures="normal">D22</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1871.9698" y="1316.1593" fill="#ffffff" id="text1730" font-stretch="normal"  gorn="0.3.150.0" font-style="normal" font-variant-ligatures="normal">D24</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1970.8859" y="1316.1593" fill="#ffffff" id="text1732" font-stretch="normal"  gorn="0.3.151.0" font-style="normal" font-variant-ligatures="normal">D26</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2070.8435" y="1316.1593" fill="#ffffff" id="text1734" font-stretch="normal"  gorn="0.3.152.0" font-style="normal" font-variant-ligatures="normal">D28</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2170.801" y="1316.1593" fill="#ffffff" id="text1736" font-stretch="normal"  gorn="0.3.153.0" font-style="normal" font-variant-ligatures="normal">D30</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="683.10175" y="1412.6412" fill="#ffffff" id="text1706" font-stretch="normal"  gorn="0.3.154.0" font-style="normal" font-variant-ligatures="normal">TX</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="782.85077" y="1413.1129" fill="#ffffff" id="text1738" font-stretch="normal"  gorn="0.3.155.0" font-style="normal" font-variant-ligatures="normal">D3</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="882.80829" y="1413.1129" fill="#ffffff" id="text1740" font-stretch="normal"  gorn="0.3.156.0" font-style="normal" font-variant-ligatures="normal">D5</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="982.76581" y="1413.1129" fill="#ffffff" id="text1742" font-stretch="normal"  gorn="0.3.157.0" font-style="normal" font-variant-ligatures="normal">D7</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1082.7238" y="1413.1129" fill="#ffffff" id="text1744" font-stretch="normal"  gorn="0.3.158.0" font-style="normal" font-variant-ligatures="normal">D9</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1167.6876" y="1413.1129" fill="#ffffff" id="text1746" font-stretch="normal"  gorn="0.3.159.0" font-style="normal" font-variant-ligatures="normal">D11</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1267.6451" y="1413.1129" fill="#ffffff" id="text1748" font-stretch="normal"  gorn="0.3.160.0" font-style="normal" font-variant-ligatures="normal">D13</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1372.1827" y="1413.1129" fill="#ffffff" id="text1750" font-stretch="normal"  gorn="0.3.161.0" font-style="normal" font-variant-ligatures="normal">D15</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1471.0992" y="1413.1129" fill="#ffffff" id="text1752" font-stretch="normal"  gorn="0.3.162.0" font-style="normal" font-variant-ligatures="normal">D17</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2173.5005" y="991.01831" fill="#ffffff" id="text1754" font-stretch="normal"  gorn="0.3.163.0" font-style="normal" font-variant-ligatures="normal">19</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2288.314" y="991.01831" fill="#ffffff" id="text1756" font-stretch="normal"  gorn="0.3.164.0" font-style="normal" font-variant-ligatures="normal">21</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2403.1277" y="991.01831" fill="#ffffff" id="text1758" font-stretch="normal"  gorn="0.3.165.0" font-style="normal" font-variant-ligatures="normal">23</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2517.9412" y="991.01831" fill="#ffffff" id="text1760" font-stretch="normal"  gorn="0.3.166.0" font-style="normal" font-variant-ligatures="normal">25</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1970.8859" y="1413.1129" fill="#ffffff" id="text1762" font-stretch="normal"  gorn="0.3.167.0" font-style="normal" font-variant-ligatures="normal">D27</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2070.8435" y="1413.1129" fill="#ffffff" id="text1764" font-stretch="normal"  gorn="0.3.168.0" font-style="normal" font-variant-ligatures="normal">D29</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2169.7595" y="1413.1129" fill="#ffffff" id="text1766" font-stretch="normal"  gorn="0.3.169.0" font-style="normal" font-variant-ligatures="normal">D31</text>
+        </g>
+        <line id="line1783" stroke-width="5.99745226" y1="1237.5612" y2="1178.8156" gorn="0.3.170" x1="1829.717" stroke-linecap="round" x2="1829.717"  fill="none" stroke="#ffffff"/>
+        <line id="line1797" stroke-width="5.99745226" y1="1237.6617" y2="1237.6617" gorn="0.3.171" x1="1826.5574" stroke-linecap="round" x2="1767.759"  fill="none" stroke="#ffffff"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect1878" stroke-width="10.4122591" height="35.979786" gorn="0.3.172.0" width="51.000221"  fill="#999999" x="-635.34296" y="-1231.8541"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect1880" stroke-width="10.4122591" height="36.000603" gorn="0.3.173.0" width="51.000221"  fill="#999999" x="-635.341" y="-1163.6398"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect1882" stroke-width="10.4122591" height="35.958969" gorn="0.3.174.0" width="51.000221"  fill="#999999" x="-635.32831" y="-1095.3912"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect1886" stroke-width="10.4122591" height="36.000603" gorn="0.3.175.0" width="1.5208402"  fill="#ffffff" x="-635.341" enable-background="new    " y="-1163.6398" opacity="0.2"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect1890" stroke-width="10.4122591" height="106.23248" gorn="0.3.176.0" width="55.03149"  fill="#999999" x="-480.76483" y="-1198.7457"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect1892" stroke-width="10.4122591" height="106.23248" gorn="0.3.177.0" width="1.6770908"  fill="#ffffff" x="-427.39029" enable-background="new    " y="-1198.7457" opacity="0.2"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect1894" stroke-width="10.4122591" height="199.43439" gorn="0.3.178.0" width="103.56296"  fill="#303030" x="-584.3454" y="-1245.3761"/>
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,635.34811,1045.9441)">
+            <polygon points="0,14.839 0.719,14.118 18.437,14.118 19.161,14.839 " id="polygon1896" gorn="0.3.179.0"  fill="#1f1f1f"/>
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,635.34811,1045.9441)">
+            <polygon points="0,4.896 0.719,5.619 18.437,5.619 19.161,4.896 " id="polygon1898" gorn="0.3.180.0"  fill="#1f1f1f"/>
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,635.34811,1045.9441)">
+            <polygon points="19.161,4.896 18.437,5.619 18.437,14.118 19.161,14.839 " id="polygon1900" gorn="0.3.181.0" />
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,635.34811,1045.9441)">
+            <polygon points="0,4.896 0.719,5.619 0.719,14.118 0,14.839 " id="polygon1902" gorn="0.3.182.0"  fill="#3d3d3d"/>
+        </g>
+        <g  transform="rotate(90)">
+            <ellipse id="circle1904" stroke-width="10.4122591" cx="1222.88" cy="-561.81671" gorn="0.3.183.0" rx="7.4936209"  ry="7.5000334" fill="#1f1f1f"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1857" stroke-width="0" height="119.65163" width="58.20623" gorn="0.3.184.0"  fill="#918a6f" x="-487.81769" y="-736.89166" stroke="none"/>
+        </g>
+        <g  transform="matrix(-0.3485403,0,0,-0.34883856,487.81581,736.89171)">
+            <polygon id="polygon1859" points="0,343 10,333 10,10 0,0 " stroke-width="1.43333328" gorn="0.3.185.0"  fill="#000000"/>
+        </g>
+        <g  transform="matrix(-0.3485403,0,0,-0.34883856,487.81581,736.89171)">
+            <polygon id="polygon1861" points="167,343 157,333 157,10 167,0 " stroke-width="1.43333328" gorn="0.3.186.0"  fill="#3d3d3d"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1863" stroke-width="0" height="24.418699" width="57.857693" gorn="0.3.187.0" connectorname="+" stroke-linecap="round"  fill="#999999" x="-487.81769" y="-737.06598" stroke="none"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1865" stroke-width="0" height="24.418699" width="57.857693" gorn="0.3.188.0" connectorname="-" stroke-linecap="round"  fill="#999999" x="-487.81769" y="-641.48444" stroke="none"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1927" stroke-width="0" height="119.65163" width="58.20623" gorn="0.3.189.0"  fill="#918a6f" x="-778.20001" y="-1233.3966" stroke="none"/>
+        </g>
+        <g  transform="matrix(-0.3485403,0,0,-0.34883856,778.19961,1233.3964)">
+            <polygon id="polygon1929" points="0,343 10,333 10,10 0,0 " stroke-width="1.43333328" gorn="0.3.190.0"  fill="#000000"/>
+        </g>
+        <g  transform="matrix(-0.3485403,0,0,-0.34883856,778.19961,1233.3964)">
+            <polygon id="polygon1931" points="167,343 157,333 157,10 167,0 " stroke-width="1.43333328" gorn="0.3.191.0"  fill="#3d3d3d"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1933" stroke-width="0" height="24.418699" width="57.857693" gorn="0.3.192.0" connectorname="+" stroke-linecap="round"  fill="#999999" x="-778.20001" y="-1233.5709" stroke="none"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1935" stroke-width="0" height="24.418699" width="57.857693" gorn="0.3.193.0" connectorname="-" stroke-linecap="round"  fill="#999999" x="-778.20001" y="-1137.9889" stroke="none"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1871" stroke-width="0" height="149.56461" width="59.948978" gorn="0.3.194.0"  fill="#a0892c" x="-880.09381" y="657.38019" stroke="none"/>
+        </g>
+        <g  transform="matrix(0,-0.3589759,0.43604839,0,657.38031,880.09481)">
+            <polygon id="polygon1873" points="10,333 10,10 0,0 0,343 " stroke-width="1.26324093" gorn="0.3.195.0"  fill="#000000"/>
+        </g>
+        <g  transform="matrix(0,-0.3589759,0.43604839,0,657.38031,880.09481)">
+            <polygon id="polygon1875" points="157,333 157,10 167,0 167,343 " stroke-width="1.26324093" gorn="0.3.196.0"  fill="#3d3d3d"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1877" stroke-width="0" height="30.523388" width="59.59" gorn="0.3.197.0" connectorname="+" stroke-linecap="round"  fill="#999999" x="-880.09381" y="657.16241" stroke="none"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1879" stroke-width="0" height="30.523388" width="59.59" gorn="0.3.198.0" connectorname="-" stroke-linecap="round"  fill="#999999" x="-880.09381" y="776.63947" stroke="none"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1885" stroke-width="0" height="119.65163" width="58.20623" gorn="0.3.199.0"  fill="#333333" x="-487.7049" y="-528.7608" stroke="none"/>
+        </g>
+        <g  transform="matrix(-0.3485403,0,0,-0.34883856,487.70421,528.76091)">
+            <polygon id="polygon1887" points="10,10 0,0 0,343 10,333 " stroke-width="1.43333328" gorn="0.3.200.0"  fill="#000000"/>
+        </g>
+        <g  transform="matrix(-0.3485403,0,0,-0.34883856,487.70421,528.76091)">
+            <polygon id="polygon1889" points="157,10 167,0 167,343 157,333 " stroke-width="1.43333328" gorn="0.3.201.0"  fill="#3d3d3d"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1891" stroke-width="0" height="24.418699" width="57.857693" gorn="0.3.202.0" connectorname="+" stroke-linecap="round"  fill="#999999" x="-487.7049" y="-528.93512" stroke="none"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1893" stroke-width="0" height="24.418699" width="57.857693" gorn="0.3.203.0" connectorname="-" stroke-linecap="round"  fill="#999999" x="-487.7049" y="-433.35358" stroke="none"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1899" stroke-width="0" height="80.005867" width="39.965961" gorn="0.3.204.0"  fill="#917c6f" x="-865.10284" y="-1233.5973" stroke="none"/>
+        </g>
+        <g  transform="matrix(-0.23931714,0,0,-0.23325325,865.10531,1233.5973)">
+            <polygon id="polygon1901" points="0,343 10,333 10,10 0,0 " stroke-width="2.11536455" gorn="0.3.205.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="matrix(-0.23931714,0,0,-0.23325325,865.10531,1233.5973)">
+            <polygon id="polygon1903" points="167,343 157,333 157,10 167,0 " stroke-width="2.11536455" gorn="0.3.206.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1905" stroke-width="0" height="16.327728" width="39.726646" gorn="0.3.207.0" connectorname="+" stroke-linecap="round"  fill="#917c6f" x="-865.10284" y="-1233.714" stroke="none"/>
+        </g>
+        <g  transform="scale(-1)">
+            <rect id="rect1907" stroke-width="0" height="16.327728" width="39.726646" gorn="0.3.208.0" connectorname="-" stroke-linecap="round"  fill="#917c6f" x="-865.10284" y="-1169.8024" stroke="none"/>
+        </g>
+        <line id="line1518" stroke-width="5.99745226" y1="900.58356" y2="925.57721" gorn="0.3.209" x1="2082.467" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1520" stroke-width="5.99745226" y1="925.57721" y2="975.53522" gorn="0.3.210" x1="2057.509" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1522" stroke-width="5.99745226" y1="1000.5146" y2="975.53522" gorn="0.3.211" x1="2082.467" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1524" stroke-width="5.99745226" y1="1000.5146" y2="975.53522" gorn="0.3.212" x1="2232.467" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1526" stroke-width="5.99745226" y1="975.53522" y2="925.57721" gorn="0.3.213" x1="2257.4812" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1528" stroke-width="5.99745226" y1="900.58356" y2="925.57721" gorn="0.3.214" x1="2232.467" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1530" stroke-width="5.99745226" y1="900.58356" y2="900.58356" gorn="0.3.215" x1="2082.467" stroke-linecap="round" x2="2232.467"  fill="none" stroke="#ffffff"/>
+        <line id="line1532" stroke-width="5.99745226" y1="1000.5146" y2="1000.5146" gorn="0.3.216" x1="2082.467" stroke-linecap="round" x2="2232.467"  fill="none" stroke="#ffffff"/>
+        <line id="line1536" stroke-width="5.99745226" y1="800.66705" y2="825.66071" gorn="0.3.217" x1="2082.467" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1538" stroke-width="5.99745226" y1="825.66071" y2="875.61871" gorn="0.3.218" x1="2057.509" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1540" stroke-width="5.99745226" y1="900.59821" y2="875.61871" gorn="0.3.219" x1="2082.467" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1542" stroke-width="5.99745226" y1="900.59821" y2="875.61871" gorn="0.3.220" x1="2232.467" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1544" stroke-width="5.99745226" y1="875.61871" y2="825.66071" gorn="0.3.221" x1="2257.4812" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1546" stroke-width="5.99745226" y1="800.66705" y2="825.66071" gorn="0.3.222" x1="2232.467" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1548" stroke-width="5.99745226" y1="800.66705" y2="800.66705" gorn="0.3.223" x1="2082.467" stroke-linecap="round" x2="2232.467"  fill="none" stroke="#ffffff"/>
+        <line id="line1550" stroke-width="5.99745226" y1="900.59821" y2="900.59821" gorn="0.3.224" x1="2082.467" stroke-linecap="round" x2="2232.467"  fill="none" stroke="#ffffff"/>
+        <line id="line1554" stroke-width="5.99745226" y1="700.75543" y2="725.74908" gorn="0.3.225" x1="2082.467" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1556" stroke-width="5.99745226" y1="725.74908" y2="775.70221" gorn="0.3.226" x1="2057.509" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1558" stroke-width="5.99745226" y1="800.6817" y2="775.70221" gorn="0.3.227" x1="2082.467" stroke-linecap="round" x2="2057.509"  fill="none" stroke="#ffffff"/>
+        <line id="line1560" stroke-width="5.99745226" y1="800.6817" y2="775.70221" gorn="0.3.228" x1="2232.467" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1562" stroke-width="5.99745226" y1="775.70221" y2="725.74908" gorn="0.3.229" x1="2257.4812" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1564" stroke-width="5.99745226" y1="700.75543" y2="725.74908" gorn="0.3.230" x1="2232.467" stroke-linecap="round" x2="2257.4812"  fill="none" stroke="#ffffff"/>
+        <line id="line1566" stroke-width="5.99745226" y1="700.75543" y2="700.75543" gorn="0.3.231" x1="2082.467" stroke-linecap="round" x2="2232.467"  fill="none" stroke="#ffffff"/>
+        <line id="line1568" stroke-width="5.99745226" y1="800.6817" y2="800.6817" gorn="0.3.232" x1="2082.467" stroke-linecap="round" x2="2232.467"  fill="none" stroke="#ffffff"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="750.7569" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#ffffff" id="circle1674" stroke-opacity="1"  gorn="0.3.233" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="850.6734" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#ffffff" id="circle1682" stroke-opacity="1"  gorn="0.3.234" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="950.58502" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#ffffff" id="circle1684" stroke-opacity="1"  gorn="0.3.235" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="950.58502" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#ffffff" id="circle1686" stroke-opacity="1"  gorn="0.3.236" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="850.6734" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#ffffff" id="circle1688" stroke-opacity="1"  gorn="0.3.237" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="750.7569" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#ffffff" id="circle1690" stroke-opacity="1"  gorn="0.3.238" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="706.88019" cy="151.58894" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector0pin" stroke-opacity="1"  gorn="0.3.239" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="806.88068" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector1pin" stroke-opacity="1"  gorn="0.3.240" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="906.88068" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector2pin" stroke-opacity="1"  gorn="0.3.241" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1006.8812" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector3pin" stroke-opacity="1"  gorn="0.3.242" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1106.8811" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector4pin" stroke-opacity="1"  gorn="0.3.243" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1206.8811" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector5pin" stroke-opacity="1"  gorn="0.3.244" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1306.8816" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector6pin" stroke-opacity="1"  gorn="0.3.245" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1406.8816" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector7pin" stroke-opacity="1"  gorn="0.3.246" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1506.7151" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector9pin" stroke-opacity="1"  gorn="0.3.247" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1606.7156" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector10pin" stroke-opacity="1"  gorn="0.3.248" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1706.7156" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector11pin" stroke-opacity="1"  gorn="0.3.249" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1806.7161" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector12pin" stroke-opacity="1"  gorn="0.3.250" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1906.7161" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector13pin" stroke-opacity="1"  gorn="0.3.251" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2006.7161" cy="151.11336" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector14pin" stroke-opacity="1"  gorn="0.3.252" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.7166" cy="151.58894" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector15pin" stroke-opacity="1"  gorn="0.3.253" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.717" cy="151.58894" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector46pin" stroke-opacity="1"  gorn="0.3.254" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.717" cy="52.070873" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector47pin" stroke-opacity="1"  gorn="0.3.255" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.7166" cy="51.672436" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector48pin" stroke-opacity="1"  gorn="0.3.256" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2006.7161" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector49pin" stroke-opacity="1"  gorn="0.3.257" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1906.7161" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector50pin" stroke-opacity="1"  gorn="0.3.258" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1806.7161" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector51pin" stroke-opacity="1"  gorn="0.3.259" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1706.7156" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector52pin" stroke-opacity="1"  gorn="0.3.260" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1606.7156" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector53pin" stroke-opacity="1"  gorn="0.3.261" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1506.7151" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector234pin" stroke-opacity="1"  gorn="0.3.262" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1406.8816" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector236pin" stroke-opacity="1"  gorn="0.3.263" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1306.8816" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector237pin" stroke-opacity="1"  gorn="0.3.264" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1206.8811" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector238pin" stroke-opacity="1"  gorn="0.3.265" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1106.8811" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector239pin" stroke-opacity="1"  gorn="0.3.266" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1006.8812" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector240pin" stroke-opacity="1"  gorn="0.3.267" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="906.88068" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector241pin" stroke-opacity="1"  gorn="0.3.268" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="806.88068" cy="51.201733" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector242pin" stroke-opacity="1"  gorn="0.3.269" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="706.88019" cy="51.672436" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector243pin" stroke-opacity="1"  gorn="0.3.270" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="706.71613" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector254pin" stroke-opacity="1"  gorn="0.3.271" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="806.71613" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector255pin" stroke-opacity="1"  gorn="0.3.272" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="906.71613" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector256pin" stroke-opacity="1"  gorn="0.3.273" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1006.7166" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector257pin" stroke-opacity="1"  gorn="0.3.274" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1106.7166" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector258pin" stroke-opacity="1"  gorn="0.3.275" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1206.7166" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector259pin" stroke-opacity="1"  gorn="0.3.276" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1306.717" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector260pin" stroke-opacity="1"  gorn="0.3.277" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1406.717" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector261pin" stroke-opacity="1"  gorn="0.3.278" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1506.717" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector262pin" stroke-opacity="1"  gorn="0.3.279" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1606.7175" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector263pin" stroke-opacity="1"  gorn="0.3.280" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1706.7175" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector264pin" stroke-opacity="1"  gorn="0.3.281" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1806.718" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector265pin" stroke-opacity="1"  gorn="0.3.282" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1906.718" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector266pin" stroke-opacity="1"  gorn="0.3.283" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2006.718" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector267pin" stroke-opacity="1"  gorn="0.3.284" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.7185" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector268pin" stroke-opacity="1"  gorn="0.3.285" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.719" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector269pin" stroke-opacity="1"  gorn="0.3.286" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.719" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector343pin" stroke-opacity="1"  gorn="0.3.287" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.7185" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector344pin" stroke-opacity="1"  gorn="0.3.288" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2006.718" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector345pin" stroke-opacity="1"  gorn="0.3.289" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1906.718" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector346pin" stroke-opacity="1"  gorn="0.3.290" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1806.718" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector347pin" stroke-opacity="1"  gorn="0.3.291" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1706.7175" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector348pin" stroke-opacity="1"  gorn="0.3.292" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1606.7175" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector349pin" stroke-opacity="1"  gorn="0.3.293" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1506.717" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector350pin" stroke-opacity="1"  gorn="0.3.294" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1406.717" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector351pin" stroke-opacity="1"  gorn="0.3.295" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1306.717" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector352pin" stroke-opacity="1"  gorn="0.3.296" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1206.7166" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector353pin" stroke-opacity="1"  gorn="0.3.297" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1106.7166" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector354pin" stroke-opacity="1"  gorn="0.3.298" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="1006.7166" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector355pin" stroke-opacity="1"  gorn="0.3.299" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="906.71613" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector356pin" stroke-opacity="1"  gorn="0.3.300" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="806.71613" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector357pin" stroke-opacity="1"  gorn="0.3.301" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="706.71613" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector358pin" stroke-opacity="1"  gorn="0.3.302" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="207.13562" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector359pin" stroke-opacity="1"  gorn="0.3.303" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="307.13562" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector360pin" stroke-opacity="1"  gorn="0.3.304" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="507.16046" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector361pin" stroke-opacity="1"  gorn="0.3.305" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="607.16095" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector362pin" stroke-opacity="1"  gorn="0.3.306" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="607.16095" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector363pin" stroke-opacity="1"  gorn="0.3.307" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="507.16046" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector364pin" stroke-opacity="1"  gorn="0.3.308" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="307.13562" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector365pin" stroke-opacity="1"  gorn="0.3.309" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="207.13562" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector366pin" stroke-opacity="1"  gorn="0.3.310" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="251.25349" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector368pin" stroke-opacity="1"  gorn="0.3.311" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="351.16998" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector369pin" stroke-opacity="1"  gorn="0.3.312" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="451.08649" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector370pin" stroke-opacity="1"  gorn="0.3.313" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="451.08649" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector371pin" stroke-opacity="1"  gorn="0.3.314" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="351.16998" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector372pin" stroke-opacity="1"  gorn="0.3.315" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="251.25349" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector373pin" stroke-opacity="1"  gorn="0.3.316" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="750.7569" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector375pin" stroke-opacity="1"  gorn="0.3.317" rx="25.000051" ry="24.978739" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="750.7569" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector376pin" stroke-opacity="1"  gorn="0.3.318" rx="25.000053" ry="24.978741" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="850.6734" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector377pin" stroke-opacity="1"  gorn="0.3.319" rx="25.000053" ry="24.978741" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="850.6734" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector378pin" stroke-opacity="1"  gorn="0.3.320" rx="25.000053" ry="24.978741" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2106.717" cy="950.58502" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector379pin" stroke-opacity="1"  gorn="0.3.321" rx="25.000053" ry="24.978741" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="2206.7175" cy="950.58502" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector380pin" stroke-opacity="1"  gorn="0.3.322" rx="25.000053" ry="24.978741" stroke-linecap="round"/>
+        <g  transform="rotate(-90)">
+            <rect id="rect1170" stroke-width="0" height="74.694801" gorn="0.3.323.0" width="40.000061"  fill="#917c6f" x="-1110.1364" y="1858.824" stroke="none"/>
+        </g>
+        <g  transform="matrix(0,-0.23952133,0.21776912,0,1858.8242,1110.1363)">
+            <polygon points="10,10 0,0 0,343 10,333 " id="polygon1172" stroke-width="2.18834186" gorn="0.3.324.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="matrix(0,-0.23952133,0.21776912,0,1858.8242,1110.1363)">
+            <polygon points="157,10 167,0 167,343 157,333 " id="polygon1174" stroke-width="2.18834186" gorn="0.3.325.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1176" stroke-width="0" height="15.243838" connectorname="+" gorn="0.3.326.0" width="39.760544" stroke-linecap="round"  fill="#917c6f" x="-1110.1364" y="1858.7161" stroke="none"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1178" stroke-width="0" height="15.243838" connectorname="-" gorn="0.3.327.0" width="39.760544" stroke-linecap="round"  fill="#917c6f" x="-1110.1364" y="1918.384" stroke="none"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1182" stroke-width="0" height="74.694801" width="40.000061" gorn="0.3.328.0"  fill="#917c6f" x="-1038.1788" y="1808.2161" stroke="none"/>
+        </g>
+        <g  transform="matrix(0,-0.23952133,0.21776912,0,1808.2163,1038.1787)">
+            <polygon id="polygon1184" points="0,343 10,333 10,10 0,0 " stroke-width="2.18834186" gorn="0.3.329.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="matrix(0,-0.23952133,0.21776912,0,1808.2163,1038.1787)">
+            <polygon id="polygon1186" points="167,343 157,333 157,10 167,0 " stroke-width="2.18834186" gorn="0.3.330.0"  fill="#917c6f"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1188" stroke-width="0" height="15.243838" width="39.760544" gorn="0.3.331.0" connectorname="+" stroke-linecap="round"  fill="#917c6f" x="-1038.1788" y="1808.1082" stroke="none"/>
+        </g>
+        <g  transform="rotate(-90)">
+            <rect id="rect1190" stroke-width="0" height="15.243838" width="39.760544" gorn="0.3.332.0" connectorname="-" stroke-linecap="round"  fill="#917c6f" x="-1038.1788" y="1867.7761" stroke="none"/>
+        </g>
+        <path id="path163" stroke-width="16.58650208" gorn="0.3.333" d="M 2087.7576,1153.358 H 1820.7494 C 1788.3996,1153.358 1761.9055,1181.8596 1761.9055,1216.6837 1761.9055,1251.4572 1788.3996,1279.9082 1820.7494,1279.9082 H 2087.7576 C 2120.1075,1279.9082 2146.6016,1251.4572 2146.6016,1216.6837 2146.6016,1181.8596 2120.1075,1153.358 2087.7576,1153.358 Z"  fill="#666666"/>
+        <path id="path31" stroke-width="13.85473728" gorn="0.3.334" d="M 2075.827,1168.5084 H 1833.9812 C 1804.6799,1168.5084 1780.6826,1190.4639 1780.6826,1217.2896 1780.6826,1244.0765 1804.6799,1265.993 1833.9812,1265.993 H 2075.827 C 2105.1283,1265.993 2129.1256,1244.0765 2129.1256,1217.2896 2129.1256,1190.4639 2105.1283,1168.5084 2075.827,1168.5084 Z"  fill="#bfbfbf"/>
+        <g  transform="matrix(0,0.11729612,-1.2151778,0,566.86321,252.03321)">
+            <polygon id="polygon1226" points="0,69.0694 0,34.8194 339.292,34.8194 339.292,69.0694 " stroke-width="2.647609" gorn="0.3.335.0"  fill="#e6e6e6"/>
+        </g>
+        <g  transform="matrix(0,0.11729612,-1.2151778,0,566.86321,109.14101)">
+            <polygon points="0,69.0694 0,34.8194 339.292,34.8194 339.292,69.0694 " id="polygon1228" stroke-width="2.647609" gorn="0.3.336.0"  fill="#e6e6e6"/>
+        </g>
+        <rect id="rect1218" stroke-width="10.41666985" height="210.86642" fill-opacity="1" width="208.40829" gorn="0.3.337"  fill="#b3b3b3" x="282.01154" y="93.418037"/>
+        <ellipse id="path1220" stroke-width="10.41666985" cx="384.50763" fill-opacity="1" cy="198.85115" gorn="0.3.338" rx="47.831413"  ry="45.687729" fill="#ff0000"/>
+        <g  transform="matrix(0,0.11729612,-1.2151778,0,325.09711,181.20831)">
+            <polygon id="polygon1222" points="0,69.0694 0,34.8194 339.292,34.8194 339.292,69.0694 " stroke-width="2.647609" gorn="0.3.339.0"  fill="#e6e6e6"/>
+        </g>
+        <g  transform="matrix(0,0.11729612,-1.2151778,0,322.68131,109.14081)">
+            <polygon points="0,69.0694 0,34.8194 339.292,34.8194 339.292,69.0694 " id="polygon1224" stroke-width="2.647609" gorn="0.3.340.0"  fill="#e6e6e6"/>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="474.05331" y="1413.1139" fill="#ffffff" id="text1230" font-stretch="normal"  gorn="0.3.341.0" font-style="normal" font-variant-ligatures="normal">3V3</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="574.01288" y="1413.1139" fill="#ffffff" id="text1232" font-stretch="normal"  gorn="0.3.342.0" font-style="normal" font-variant-ligatures="normal">RST</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1575.2213" y="1413.1129" fill="#ffffff" id="text1234" font-stretch="normal"  gorn="0.3.343.0" font-style="normal" font-variant-ligatures="normal">D19</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1673.0963" y="1413.1129" fill="#ffffff" id="text1236" font-stretch="normal"  gorn="0.3.344.0" font-style="normal" font-variant-ligatures="normal">D21</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1772.0123" y="1413.1129" fill="#ffffff" id="text1238" font-stretch="normal"  gorn="0.3.345.0" font-style="normal" font-variant-ligatures="normal">D23</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1871.9698" y="1413.1129" fill="#ffffff" id="text1240" font-stretch="normal"  gorn="0.3.346.0" font-style="normal" font-variant-ligatures="normal">D25</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="303.35712" y="355.41263" fill="#ffffff" id="text1242" font-stretch="normal"  gorn="0.3.347.0" font-style="normal" font-variant-ligatures="normal">RESET</text>
+        </g>
+        <g  transform="scale(1.0009238,0.99907706)">
+            <text font-size="31.25226402" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="302.90118" y="36.096283" fill="#ffffff" id="text1244" font-stretch="normal"  gorn="0.3.348.0" font-style="normal" font-variant-ligatures="normal">RobotDyn</text>
+        </g>
+        <g  transform="scale(1.0009238,0.99907706)">
+            <text font-size="31.25226402" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="302.90118" y="79.225098" fill="#ffffff" id="text1246" font-stretch="normal"  gorn="0.3.349.0" font-style="normal" font-variant-ligatures="normal">RobotDyn.com</text>
+        </g>
+        <circle id="path1248" stroke-width="10.41666889" cx="707.21857" fill-opacity="1" cy="320.01569" gorn="0.3.350" r="62.992146"  fill="#e6e6e6"/>
+        <circle id="circle1250" stroke-width="10.41666889" cx="2158.5076" fill-opacity="1" cy="582.44049" gorn="0.3.351" r="62.992146"  fill="#e6e6e6"/>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2071.0935" y="211.15288" fill="#ffffff" id="text1252" font-stretch="normal"  gorn="0.3.352.0" font-style="normal" font-variant-ligatures="normal">D45</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="2171.051" y="211.15288" fill="#ffffff" id="text1254" font-stretch="normal"  gorn="0.3.353.0" font-style="normal" font-variant-ligatures="normal">D47</text>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect779" stroke-width="10.4122591" height="35.979786" width="51.000221" gorn="0.3.354.0"  fill="#999999" x="-362.41354" y="-1231.5419"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect781" stroke-width="10.4122591" height="36.000603" width="51.000221" gorn="0.3.355.0"  fill="#999999" x="-362.41159" y="-1163.3275"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect783" stroke-width="10.4122591" height="35.958969" width="51.000221" gorn="0.3.356.0"  fill="#999999" x="-362.3989" y="-1095.079"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect785" stroke-width="10.4122591" height="36.000603" width="1.5208402" gorn="0.3.357.0"  fill="#ffffff" x="-362.41159" y="-1163.3275" enable-background="new    " opacity="0.2"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect787" stroke-width="10.4122591" height="106.23248" width="55.03149" gorn="0.3.358.0"  fill="#999999" x="-207.83543" y="-1198.4335"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect789" stroke-width="10.4122591" height="106.23248" width="1.6770908" gorn="0.3.359.0"  fill="#ffffff" x="-154.46089" y="-1198.4335" enable-background="new    " opacity="0.2"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect791" stroke-width="10.4122591" height="199.43439" width="103.56296" gorn="0.3.360.0"  fill="#303030" x="-311.41599" y="-1245.0638"/>
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,362.41869,1045.6326)">
+            <polygon id="polygon793" points="18.437,14.118 19.161,14.839 0,14.839 0.719,14.118 " gorn="0.3.361.0"  fill="#1f1f1f"/>
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,362.41869,1045.6326)">
+            <polygon id="polygon795" points="18.437,5.619 19.161,4.896 0,4.896 0.719,5.619 " gorn="0.3.362.0"  fill="#1f1f1f"/>
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,362.41869,1045.6326)">
+            <polygon id="polygon797" points="18.437,14.118 19.161,14.839 19.161,4.896 18.437,5.619 " gorn="0.3.363.0" />
+        </g>
+        <g  transform="matrix(0,10.407806,-10.416713,0,362.41869,1045.6326)">
+            <polygon id="polygon799" points="0.719,14.118 0,14.839 0,4.896 0.719,5.619 " gorn="0.3.364.0"  fill="#3d3d3d"/>
+        </g>
+        <g  transform="rotate(90)">
+            <ellipse id="ellipse801" stroke-width="10.4122591" cx="1222.5684" gorn="0.3.365.0" cy="-288.8873" rx="7.4936209"  ry="7.5000334" fill="#1f1f1f"/>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="384.63309" y="1316.239" fill="#ffffff" id="text803" font-stretch="normal"  gorn="0.3.366.0" font-style="normal" font-variant-ligatures="normal">5V</text>
+        </g>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="407.28326" cy="1450.4791" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector382pin" stroke-opacity="1"  gorn="0.3.367" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <ellipse opacity="1" mix-blend-mode="normal" isolation="auto" fill-opacity="1" stroke-dashoffset="0.5" image-rendering="auto" overflow="visible" visibility="visible" enable-background="accumulate" color-rendering="auto" cx="407.28326" cy="1350.5675" display="inline" text-rendering="auto" stroke-miterlimit="4" color="#000000" color-interpolation="sRGB" stroke="#b3b3b3" stroke-dasharray="none" stroke-linejoin="miter" clip-rule="nonzero" solid-opacity="1" fill-rule="nonzero" stroke-width="9.9957552" shape-rendering="auto" solid-color="#000000" color-interpolation-filters="linearRGB" fill="#999999" id="connector381pin" stroke-opacity="1"  gorn="0.3.368" rx="25.000048" ry="24.978735" stroke-linecap="round"/>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="385.67432" y="1413.1139" fill="#ffffff" id="text809" font-stretch="normal"  gorn="0.3.369.0" font-style="normal" font-variant-ligatures="normal">5V</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="991.84863" y="256.9017" fill="#ffffff" id="text811" font-stretch="normal"  gorn="0.3.370.0" font-style="normal" font-variant-ligatures="normal">19</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1106.6621" y="256.9017" fill="#ffffff" id="text813" font-stretch="normal"  gorn="0.3.371.0" font-style="normal" font-variant-ligatures="normal">21</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1221.4757" y="256.9017" fill="#ffffff" id="text815" font-stretch="normal"  gorn="0.3.372.0" font-style="normal" font-variant-ligatures="normal">23</text>
+        </g>
+        <g  transform="scale(0.81722562,1.2236523)">
+            <text font-size="35.87919998" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1336.2892" y="256.9017" fill="#ffffff" id="text817" font-stretch="normal"  gorn="0.3.373.0" font-style="normal" font-variant-ligatures="normal">25</text>
+        </g>
+        <line id="line819" stroke-width="5.99745226" y1="339.25763" y2="280.51202" gorn="0.3.374" x1="864.04089" stroke-linecap="round" x2="864.04089"  fill="none" stroke="#ffffff"/>
+        <line id="line821" stroke-width="5.99745226" y1="339.35822" y2="339.35822" gorn="0.3.375" x1="860.88123" stroke-linecap="round" x2="802.08289"  fill="none" stroke="#ffffff"/>
+        <path id="path823" stroke-width="16.58650208" gorn="0.3.376" d="M 1122.0814,255.0545 H 855.07315 C 822.72335,255.0545 796.22925,283.5561 796.22925,318.3802 796.22925,353.1537 822.72335,381.6047 855.07315,381.6047 H 1122.0814 C 1154.4313,381.6047 1180.9254,353.1537 1180.9254,318.3802 1180.9254,283.5561 1154.4313,255.0545 1122.0814,255.0545 Z"  fill="#666666"/>
+        <path id="path825" stroke-width="13.85473728" gorn="0.3.377" d="M 1110.1508,270.2049 H 868.30495 C 839.00365,270.2049 815.00635,292.1604 815.00635,318.9861 815.00635,345.773 839.00365,367.6895 868.30495,367.6895 H 1110.1508 C 1139.4521,367.6895 1163.4494,345.773 1163.4494,318.9861 1163.4494,292.1604 1139.4521,270.2049 1110.1508,270.2049 Z"  fill="#bfbfbf"/>
+        <path id="path6" stroke-width="0.99957681" gorn="0.3.378" d="M 4.98613,588.15506 C 2.25001,588.15506 0,590.40512 0,593.15082 V 820.0993 C 0,822.8529 2.25001,825.0794 4.98613,825.0794 H 16.25008 C 19.01398,825.0794 22.27789,827.1249 23.47233,829.5362 L 33.72238,850.239 C 34.9446,852.7173 38.19462,854.6959 40.95852,854.6959 H 75.51444 C 78.25056,854.6959 80.48668,852.4537 80.48668,849.7119 L 80.48646,563.48316 C 80.48646,560.7296 78.25035,558.48742 75.51422,558.48742 H 40.95847 C 38.19457,558.48742 34.93066,560.49358 33.72233,562.96784 L 23.47228,583.67464 C 22.27784,586.15283 19.0417,588.15506 16.25003,588.15506 Z"  fill="#4d4d4d"/>
+        <g  transform="rotate(90)">
+            <rect id="rect8" stroke-width="0.99957681" height="86.861481" gorn="0.3.379.0" width="49.95747"  fill="#666666" x="528.74664" y="-416.80713"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect10" stroke-width="0.99957681" height="100.52845" gorn="0.3.380.0" width="49.95747"  fill="#666666" x="528.74664" y="-248.66722"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect14" stroke-width="0.99957681" height="21.513994" width="188.21477" gorn="0.3.381.0"  fill="#1a1a1a" x="612.53864" y="-70.95842"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect16" stroke-width="0.99957681" height="86.861481" gorn="0.3.382.0" width="49.95747"  fill="#666666" x="834.19592" y="-416.80713"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect18" stroke-width="0.99957681" height="100.52845" gorn="0.3.383.0" width="49.95747"  fill="#666666" x="834.19592" y="-248.66722"/>
+        </g>
+        <g  transform="matrix(0,0.99914946,-1.0000044,0,429.96,487.20164)">
+            <polygon points="353.597,20.75 84.8472,20.75 84.8472,34.125 172.694,34.125 161.222,49.3472 71.3472,49.3472 71.3472,366.611 367.833,366.611 367.833,49.3472 278,49.3472 266.514,34.125 353.597,34.125 " id="polygon22" gorn="0.3.384.0"  fill="#999999"/>
+        </g>
+        <path id="path26" stroke-width="0.99957681" gorn="0.3.385" d="M 256.59823,643.541 C 256.59823,645.7045 254.83434,647.3173 252.69543,647.08128 L 106.94479,631.85802 C 104.80587,631.46465 103.04198,629.73384 103.04198,627.52706 L 103.04154,603.33899 C 103.04154,601.21481 104.80544,599.22045 106.94434,599.01196 L 252.69498,583.74544 C 254.8339,583.35207 256.59779,585.16155 256.59779,587.28573 V 590.82602 C 256.59779,592.95019 254.8339,594.94849 252.69498,595.14124 L 120.16641,606.659 C 118.0414,606.659 116.27749,608.74384 116.27749,610.93488 V 619.94296 C 116.27749,622.06714 118.0414,624.03397 120.16641,624.24245 L 252.69498,635.74841 C 254.8339,635.74841 256.59779,637.83326 256.59779,640.0479 Z" />
+        <path id="path28" stroke-width="0.99957681" gorn="0.3.386" d="M 256.59823,825.9133 C 256.59823,828.0375 254.83434,829.6896 252.69543,829.4536 L 106.90258,814.1753 C 104.76368,813.7819 102.99978,812.0511 102.99978,809.8325 V 785.6562 C 102.99978,783.5321 104.76368,781.5377 106.90258,781.3135 L 252.68121,766.0509 C 254.82013,765.6575 256.58402,767.467 256.58402,769.5912 V 773.1708 C 256.58402,775.295 254.82013,777.2657 252.68121,777.5136 L 120.16664,789.0038 C 118.02773,789.0038 116.26383,791.0493 116.26383,793.319 V 802.2838 C 116.26383,804.3686 118.02773,806.4063 120.16664,806.6266 L 252.68121,818.0617 C 254.82013,818.4551 256.58402,820.1072 256.58402,822.4045 Z" />
+        <g  transform="matrix(0,0.99914946,-1.0000044,0,429.96,487.20164)">
+            <polygon points="301.486,302.111 302.375,313.611 319.278,313.611 320.292,302.111 " id="polygon30" gorn="0.3.387.0"  fill="none"/>
+        </g>
+        <g  transform="matrix(0,0.99914946,-1.0000044,0,429.96,487.20164)">
+            <polygon points="301.486,302.111 320.292,302.111 319.278,313.611 302.375,313.611 " id="polygon32" gorn="0.3.388.0"  fill="#939393"/>
+        </g>
+        <g  transform="matrix(0,0.99914946,-1.0000044,0,429.96,487.20164)">
+            <polygon points="301.486,302.111 320.292,302.111 320.722,297.278 300.958,297.278 " id="polygon34" gorn="0.3.389.0"  fill="#545454"/>
+        </g>
+        <g  transform="matrix(0,0.99914946,-1.0000044,0,429.96,487.20164)">
+            <polygon points="118.958,302.111 119.833,313.611 136.833,313.611 137.764,302.111 " id="polygon38" gorn="0.3.390.0"  fill="none"/>
+        </g>
+        <g  transform="matrix(0,0.99914946,-1.0000044,0,429.96,487.20164)">
+            <polygon points="118.958,302.111 137.764,302.111 136.833,313.611 119.833,313.611 " id="polygon40" gorn="0.3.391.0"  fill="#939393"/>
+        </g>
+        <g  transform="matrix(0,0.99914946,-1.0000044,0,429.96,487.20164)">
+            <polygon points="118.958,302.111 137.764,302.111 138.25,297.278 118.431,297.278 " id="polygon42" gorn="0.3.392.0"  fill="#545454"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect46" stroke-width="0.99957681" height="27.986221" width="77.087181" gorn="0.3.393.0"  fill="#808080" x="666.27112" y="-235.34816"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect48" stroke-width="0.99957681" height="15.486169" width="77.087181" gorn="0.3.394.0"  fill="#545454" x="666.27112" y="-250.82022"/>
+        </g>
+        <path id="path50" stroke-width="0.99957681" gorn="0.3.395" d="M 89.73651,661.60828 C 89.73651,663.73246 91.50041,665.67569 93.63932,665.78583 L 254.82102,675.48624 C 256.95993,675.48624 258.72384,677.4924 258.72384,679.66378 V 733.6297 C 258.72384,735.7932 256.95993,737.6695 254.82102,737.8623 L 93.63932,747.4368 C 91.50041,747.4368 89.73651,749.4823 89.73651,751.6301 V 758.8601 C 89.73651,760.9843 91.50041,762.6365 93.63932,762.5578 L 276.8481,749.2463 C 278.98702,748.8529 280.77868,747.2008 280.77868,744.9468 V 668.34664 C 280.77868,666.22246 278.98702,664.2517 276.8481,664.05502 L 93.6393,650.79072 C 91.5004,650.79072 89.70873,652.28551 89.70873,654.44902 Z" />
+        <path id="path52" stroke-width="0.99957681" gorn="0.3.396" d="M 70.75042,567.24373 C 70.75042,563.42809 73.86154,560.30476 77.69489,560.30476 H 372.58475 C 376.41811,560.30476 379.52923,563.41236 379.52923,567.24373 379.52923,571.05938 376.4181,574.18271 372.58475,574.18271 H 77.69445 C 73.84743,574.18271 70.75042,571.07513 70.75042,567.24373 Z"  fill="#ffffff"/>
+        <path id="path56" stroke-width="0.99957681" gorn="0.3.397" d="M 67.48641,849.5192 C 67.48641,847.5917 69.04197,846.0576 70.95863,846.0576 H 372.58474 C 374.5014,846.0576 376.05696,847.5917 376.05696,849.5192 376.05696,851.4467 374.5014,852.9808 372.58474,852.9808 H 70.95842 C 69.05542,852.9808 67.4864,851.4467 67.48641,849.5192 Z"  fill="#ffffff"/>
+        <path id="path60" stroke-width="0.99957681" gorn="0.3.398" d="M 387.44592,743.983 V 669.20024 C 387.44592,665.38459 390.55703,662.26127 394.3904,662.26127 398.22388,662.26127 401.33484,665.36886 401.33484,669.20024 V 743.983 C 401.33484,747.7987 398.22381,750.922 394.3904,750.922 390.55703,750.922 387.44592,747.8144 387.44592,743.983 Z"  fill="#ffffff"/>
+        <path id="path64" stroke-width="0.99957681" gorn="0.3.399" d="M 63.15239,849.7237 C 63.15239,850.5498 62.44404,851.2579 61.63848,851.2579 H 40.9856 C 39.54114,851.2579 37.51336,849.9991 36.84669,848.701 L 26.63835,828.0099 C 24.8189,824.3516 20.4161,821.6138 16.305,821.6138 H 5.02715 C 4.17993,821.6138 3.49936,820.9057 3.49936,820.0797 L 3.50012,593.16262 C 3.50012,592.33655 4.22235,591.62849 5.02791,591.62849 H 16.30576 C 20.41689,591.62849 24.84747,588.87492 26.61141,585.21662 L 36.87535,564.49805 C 37.51424,563.19994 39.50036,561.94117 40.98648,561.94117 H 61.62538 C 62.47259,561.94117 63.12539,562.64922 63.12539,563.47529 L 63.15239,849.7277 M 66.6254,849.7277 V 563.48709 C 66.6254,560.73353 64.37539,558.49135 61.63926,558.49135 H 40.98638 C 38.22248,558.49135 34.94468,560.49751 33.75024,562.97572 L 23.50019,583.67856 C 22.30575,586.15677 19.05573,588.159 16.26405,588.159 H 4.9862 C 2.26397,588.159 0.01396,590.40119 0.01396,593.15474 V 820.1033 C 0.01396,822.8568 2.26397,825.0833 4.9862,825.0833 H 16.26405 C 19.02795,825.0833 22.30575,827.1288 23.50019,829.5401 L 33.75024,850.243 C 34.97246,852.7212 38.20859,854.6959 40.98638,854.6959 L 61.62538,854.6999 C 64.37539,854.7235 66.6254,852.497 66.6254,849.7277 Z"  fill="#e6e6e6"/>
+        <path id="path68" stroke-width="0.99957681" gorn="0.3.400" d="M 34.06926,800.7654 C 31.33314,800.7654 29.08313,798.5232 29.08313,795.7854 L 29.08324,617.54737 C 29.08324,614.7938 31.33325,612.55162 34.06937,612.55162 H 49.66664 V 800.7654 Z"  fill="#333333"/>
+        <g  transform="rotate(90)">
+            <rect id="rect70" stroke-width="0.99957681" height="9.5694828" width="15.83372" gorn="0.3.401.0"  fill="#1a1a1a" x="768.67004" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect74" stroke-width="0.99957681" height="9.5694828" width="15.861497" gorn="0.3.402.0"  fill="#1a1a1a" x="733.71277" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect78" stroke-width="0.99957681" height="9.5694828" width="15.847609" gorn="0.3.403.0"  fill="#1a1a1a" x="698.72668" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect82" stroke-width="0.99957681" height="9.5694828" width="15.83372" gorn="0.3.404.0"  fill="#1a1a1a" x="663.75977" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect86" stroke-width="0.99957681" height="9.5694828" width="15.83372" gorn="0.3.405.0"  fill="#1a1a1a" x="628.78802" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect92" stroke-width="0.99957681" height="3.2500143" width="7.1883197" gorn="0.3.406.0"  fill="#e6e6e6" x="773.01575" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect96" stroke-width="0.99957681" height="3.2500143" width="7.1605744" gorn="0.3.407.0"  fill="#e6e6e6" x="738.04407" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect100" stroke-width="0.99957681" height="3.2500143" width="7.1605744" gorn="0.3.408.0"  fill="#e6e6e6" x="703.07227" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect104" stroke-width="0.99957681" height="3.2500143" width="7.1605744" gorn="0.3.409.0"  fill="#e6e6e6" x="668.10059" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect108" stroke-width="0.99957681" height="3.2500143" width="7.1605744" gorn="0.3.410.0"  fill="#e6e6e6" x="633.13367" y="-45.139309"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect114" stroke-width="0.99957681" height="20.750093" width="11.975904" gorn="0.3.411.0"  fill="#666666" x="747.64771" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect116" stroke-width="0.99957681" height="20.750093" width="1.9427862" gorn="0.3.412.0"  fill="#cccccc" x="747.64771" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect120" stroke-width="0.99957681" height="20.750093" width="11.962017" gorn="0.3.413.0"  fill="#666666" x="724.1524" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect122" stroke-width="0.99957681" height="20.750093" width="1.9427862" gorn="0.3.414.0"  fill="#cccccc" x="724.1524" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect126" stroke-width="0.99957681" height="20.750093" width="11.975904" gorn="0.3.415.0"  fill="#666666" x="700.67139" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect128" stroke-width="0.99957681" height="20.750093" width="1.9289179" gorn="0.3.416.0"  fill="#cccccc" x="700.67139" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect132" stroke-width="0.99957681" height="20.750093" width="11.989793" gorn="0.3.417.0"  fill="#666666" x="677.19043" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect134" stroke-width="0.99957681" height="20.750093" width="1.9427862" gorn="0.3.418.0"  fill="#cccccc" x="677.19043" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect138" stroke-width="0.99957681" height="20.750093" width="11.989793" gorn="0.3.419.0"  fill="#666666" x="653.71429" y="-429.95999"/>
+        </g>
+        <g  transform="rotate(90)">
+            <rect id="rect140" stroke-width="0.99957681" height="20.750093" width="1.9566643" gorn="0.3.420.0"  fill="#cccccc" x="653.71429" y="-429.95999"/>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="273.4877" y="1413.1138" fill="#ffffff" id="text917" font-stretch="normal"  gorn="0.3.421.0" font-style="normal" font-variant-ligatures="normal">GND</text>
+        </g>
+        <g  transform="scale(1.0004265,0.99957368)">
+            <text font-size="31.2367382" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="173.18155" y="1413.1138" fill="#ffffff" id="text919" font-stretch="normal"  gorn="0.3.422.0" font-style="normal" font-variant-ligatures="normal">VIN</text>
+        </g>
+        <g  transform="scale(1.0009238,0.99907706)">
+            <text font-size="60" font-family="OCRA" writing-mode="lr-tb" font-variant="normal" font-weight="normal" text-align="start" font-variant-caps="normal" text-anchor="start" font-feature-settings="normal" stroke-width="10.41224575" font-variant-numeric="normal" x="1210.1121" y="318.99399" fill="#ffffff" id="text921" font-stretch="normal"  gorn="0.3.423.0" font-style="normal" font-variant-ligatures="normal">MEGA 2550 PRO</text>
+        </g>
+        <line id="line923" stroke-width="10.41224575" y1="595.03052" y2="595.03052" gorn="0.3.424" x1="1993.3501" x2="1917.9746"  fill="none"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect925" stroke-width="10.41224575" height="39.89312" gorn="0.3.425.0" width="76.552231"  fill="#f2f2f2" x="-1993.3431" y="-634.89984"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect927" stroke-width="10.41224575" height="10.001903" width="8.8958502" gorn="0.3.426.0"  fill="#ffffff" x="-1960.2552" y="-620.26361"/>
+        </g>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect929" stroke-width="10.41224575" height="0.50998253" width="8.8958502" gorn="0.3.427.0"  fill="#b3b3b3" x="-1960.2606" y="-610.50629"/>
+        </g>
+        <path id="path931" stroke-width="10.41224575" gorn="0.3.428" d="M 1937.1935,601.49411 C 1937.2445,601.49411 1937.2685,601.49411 1937.3076,601.49411 1940.0785,601.88751 1941.9327,602.55621 1943.5368,603.18561 1945.714,604.01171 1949.3702,611.32431 1952.1618,610.42751 1952.4414,610.42751 1952.7973,610.42751 1952.8181,610.86021 1952.9323,611.25351 1952.7158,611.56821 1952.4441,611.68621 1949.2359,612.66961 1945.392,605.26651 1943.1108,604.39321 1941.5899,603.76381 1939.7982,603.09511 1937.1524,602.78041 1936.8808,602.78041 1936.569,602.38711 1936.6418,602.07241 1936.6928,601.67901 1936.9332,601.48231 1937.1938,601.48231 Z"  fill="#d1c690"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,819.16311)">
+            <polygon points="-18.749,-29.369 -18.225,-29.369 -18.122,-30.335 -18.852,-30.335 " id="polygon933" gorn="0.3.429.0"  fill="#d1c690"/>
+        </g>
+        <path id="path935" stroke-width="10.41224575" gorn="0.3.430" d="M 1956.2456,613.64911 C 1956.4936,613.64911 1956.7873,614.04251 1956.8499,614.16051 1957.5062,617.18941 1968.1833,626.15031 1976.4854,626.15031 1976.8279,626.15031 1977.0897,626.54371 1977.0897,626.81901 1977.0687,627.21241 1976.8613,627.48771 1976.4854,627.48771 H 1976.4644 C 1968.6623,627.48771 1956.7352,619.47491 1955.704,614.53031 1955.621,614.13691 1955.8379,613.82221 1956.1312,613.70421 1956.1622,613.68061 1956.2062,613.68061 1956.2453,613.68061 Z"  fill="#d1c690"/>
+        <path id="path937" stroke-width="10.41224575" gorn="0.3.431" d="M 1951.3498,613.48391 C 1951.3498,613.48391 1955.058,613.50361 1955.3498,610.25831 1954.6517,610.25831 1951.3498,610.25831 1951.3498,610.25831 Z"  fill="#d1c690"/>
+        <path id="path939" stroke-width="10.41224575" gorn="0.3.432" d="M 1955.9019,616.80391 C 1955.9019,616.80391 1954.2562,613.61771 1955.3184,613.14561 1956.4227,612.63421 1957.2038,612.59491 1957.8078,613.53901 1958.4534,614.40441 1955.9015,616.88261 1955.9015,616.88261 Z"  fill="#d1c690"/>
+        <path id="path941" stroke-width="10.41224575" gorn="0.3.433" d="M 1952.1518,609.85311 C 1949.329,610.71851 1945.7039,603.41771 1943.5268,602.58771 1942.0166,601.95831 1940.0997,601.25021 1937.2976,600.89621 V 601.52561 C 1940.0685,601.91901 1941.9227,602.62701 1943.5268,603.21711 1945.704,604.04311 1949.3601,611.35581 1952.1518,610.45891 Z"  fill="#9d956c"/>
+        <g  transform="matrix(0,10.407806,-10.416687,0,1667.5471,819.16311)">
+            <polygon points="-18.749,-29.369 -18.804,-29.369 -18.907,-30.335 -18.852,-30.335 " id="polygon943" gorn="0.3.434.0"  fill="#9d956c"/>
+        </g>
+        <path id="path945" stroke-width="10.41224575" gorn="0.3.435" d="M 1956.8498,613.54681 C 1957.5061,616.57581 1967.9644,626.16211 1976.4852,625.50521 V 626.13461 C 1967.3498,626.76391 1957.4748,617.18151 1956.8289,614.14481 Z"  fill="#9d956c"/>
+        <path id="path947" stroke-width="10.41224575" gorn="0.3.436" d="M 1955.3498,609.66431 C 1954.6517,609.66431 1951.381,609.66431 1951.381,609.66431 V 610.25441 C 1951.381,610.25441 1954.6413,610.25441 1955.3498,610.25441 Z"  fill="#9d956c"/>
+        <path id="path949" stroke-width="10.41224575" gorn="0.3.437" d="M 1957.8498,612.90171 C 1957.1935,612.07571 1956.4852,612.11501 1955.3809,612.50841 L 1955.3599,613.13771 C 1956.4642,612.62641 1957.2556,612.58701 1957.8497,613.53111 Z"  fill="#9d956c"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect951" stroke-width="10.41224575" height="0.53079808" gorn="0.3.438.0" width="44.031338"  fill="#ffffff" x="-1977.9536" enable-background="new    " y="-634.914" opacity="0.5"/>
+        </g>
+        <path id="path953" stroke-width="10.41224575" gorn="0.3.439" d="M 1983.3602,634.90271 V 595.03111 H 1927.9851 L 1927.9421,634.90271 Z"  fill="#f2f2f2" enable-background="new    " opacity="0.5"/>
+        <path id="path955" stroke-width="10.41224575" gorn="0.3.440" d="M 1982.829,628.11711 V 630.94941 C 1982.6085,632.52281 1982.955,633.78161 1981.777,633.78161 1975.4437,633.78161 1932.7873,633.78161 1931.2144,633.78161 1929.4644,633.78161 1929.3498,633.11291 1931.3404,633.11291 1932.7152,633.11291 1971.903,633.11291 1976.6217,633.11291 1981.3822,633.11291 1982.0488,632.01141 1982.0488,631.06741 L 1982.0278,628.23511 C 1982.0278,626.34701 1982.8298,626.34701 1982.8298,628.23511 Z"  fill="#ffffff" enable-background="new    " opacity="0.55"/>
+        <path id="path957" stroke-width="10.41224575" gorn="0.3.441" d="M 1929.433,597.32051 C 1929.433,596.61241 1929.2755,595.90441 1930.4539,595.90441 1936.8185,595.90441 1979.0686,595.90441 1980.5998,595.90441 1982.3809,595.90441 1982.4644,596.57311 1980.5168,596.57311 1979.1003,596.57311 1947.8189,596.59281 1943.1314,596.59281 1936.9543,596.60461 1929.4334,597.34021 1929.4334,597.34021 Z"  enable-background="new    " opacity="0.02999998"/>
+        <path id="path959" stroke-width="10.41224575" gorn="0.3.442" d="M 1993.3394,595.01141 H 1985.3081 V 600.43201 C 1985.3081,601.73011 1984.4747,602.63491 1983.3499,603.22491 V 634.93811 H 1993.8707 V 595.55431 595.04291"  fill="#d1c690"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect961" stroke-width="10.41224575" height="0.54120594" gorn="0.3.443.0" width="10.489604"  fill="#ffffff" x="-1993.8534" enable-background="new    " y="-634.93304" opacity="0.5"/>
+        </g>
+        <path id="path963" stroke-width="10.41224575" gorn="0.3.444" d="M 1916.7872,595.01141 V 595.52281 634.90661 H 1927.9643 V 598.85461 C 1926.8808,598.26461 1926.006,597.32051 1926.006,596.02241 V 594.99961 H 1917.3601"  fill="#d1c690"/>
+        <g  transform="rotate(179.99985)">
+            <rect id="rect965" stroke-width="10.41224575" height="0.54120594" gorn="0.3.445.0" width="11.145856"  fill="#ffffff" x="-1927.9847" enable-background="new    " y="-634.92865" opacity="0.5"/>
+        </g>
+    </g>
+</svg>
